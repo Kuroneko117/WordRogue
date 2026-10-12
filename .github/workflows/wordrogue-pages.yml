@@ -1,0 +1,35 @@
+name: Publish WordRogue Web
+on:
+  push:
+    branches: [main]
+    paths: ['web/**', '.github/workflows/wordrogue-pages.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: wordrogue-pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate Web export
+        run: |
+          test -s web/index.html
+          test -s web/index.js
+          test -s web/index.wasm
+          test -s web/index.pck
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

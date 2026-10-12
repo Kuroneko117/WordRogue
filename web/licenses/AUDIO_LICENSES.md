@@ -1,0 +1,51 @@
+# WordRogue V1.8 音频许可与来源
+
+核查与接入日期：2026-10-10。以下新增音乐和派生音效均按发布者标示的 **CC0 1.0** 使用；不是依据“可免费试听”判断许可。
+许可原文：[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)。作者署名非强制，项目仍记录所有作者与原作。没有把CC0等同于项目拥有原创版权或得到作者背书。
+
+## 四首新增真实BGM
+
+| 工程路径 | 曲名 | 作者 | 发布页面 | 时长 | 许可 |
+| --- | --- | --- | --- | ---: | --- |
+| `assets/audio/bgm/title_map.ogg` | Iremos Forest Theme Loop | beardalaxy | [发布与下载](https://opengameart.org/content/iremos-forest-theme-loop) | 25.61s | CC0-1.0 |
+| `assets/audio/bgm/elite_battle.ogg` | Cynic Battle Loop | Alex Smith / The Cynic Project; loop edit by Ferk | [发布与下载](https://opengameart.org/content/cynic-battle-loop) | 92.08s | CC0-1.0 |
+| `assets/audio/bgm/memory_rest.ogg` | Forget Me Not (looped) | Kistol | [发布与下载](https://opengameart.org/content/forget-me-not) | 124.10s | CC0-1.0 |
+| `assets/audio/bgm/event_special.ogg` | Unsolved Investigation | isaiah658 | [发布与下载](https://opengameart.org/content/unsolved-investigation) | 48.00s | CC0-1.0 |
+
+精英曲原作同样明确CC0：[Battle Theme A](https://opengameart.org/content/battle-theme-a)，作曲Alex Smith（cynicmusic / The Cynic Project），循环编辑Ferk。采用该循环编辑版，没有采用任何混入其他许可证曲目的混音。
+
+四首原OGG字节未改，文件与实际下载源SHA256相同；游戏运行时开启循环。新标题/精英曲分别约-2.20/-4.77dB资源增益，书房/事件为0dB，均叠加原场景安静音量与用户滑块；不重写用户设置。原normal_battle与boss_battle保留。
+
+## 18个新派生音效
+
+实际源来自已持有、此次重新核实许可的两个包：
+
+- [Kenney RPG Audio](https://kenney.nl/assets/rpg-audio)，Kenney Vleugels；CC0；支持个人及商业项目；原包许可保留为 `Kenney_RPG_CC0.txt`。
+- [80 CC0 RPG SFX](https://opengameart.org/content/80-cc0-rpg-sfx)，rubberduck；发布页面明确CC0，含book、chain、slime、fire、spell类实际音频。
+
+派生处理：Godot原生Vorbis解码、剪前导静音、按列出的源混合、单声道PCM16、RMS/峰值控制、3ms起音/25ms淡出；没有覆盖旧21个WAV。源文件、SHA256和增益完整列在 `assets/audio/v18_manifest.json`。
+
+| 输出文件 | 源片段（混合顺序） |
+| --- | --- |
+| `archive_chain_texture.wav` | chain_01.ogg（rubberduck） |
+| `archive_judgment_texture.wav` | spell_01.ogg（rubberduck） + item_gem_04.ogg（rubberduck） |
+| `archive_seal_texture.wav` | spell_02.ogg（rubberduck） + lock_03.ogg（rubberduck） |
+| `boss_impact_texture.wav` | stones_04.ogg（rubberduck） + spell_fire_05.ogg（rubberduck） |
+| `boss_tome_texture.wav` | bookOpen.ogg（Kenney Vleugels） + spell_01.ogg（rubberduck） |
+| `ink_splash_texture.wav` | creature_slime_02.ogg（rubberduck） |
+| `ink_spray.wav` | creature_slime_01.ogg（rubberduck） |
+| `ink_surge_texture.wav` | creature_slime_04.ogg（rubberduck） |
+| `mimic_bite_texture.wav` | bookClose.ogg（Kenney Vleugels） + creature_monster_02.ogg（rubberduck） |
+| `mimic_devour_texture.wav` | creature_monster_03.ogg（rubberduck） + bookClose.ogg（Kenney Vleugels） |
+| `mimic_drain.wav` | spell_02.ogg（rubberduck） |
+| `mimic_open_texture.wav` | bookOpen.ogg（Kenney Vleugels） |
+| `paper_heavy.wav` | bookClose.ogg（Kenney Vleugels） |
+| `paper_rustle.wav` | bookFlip3.ogg（Kenney Vleugels） |
+| `paper_strike.wav` | bookPlace3.ogg（Kenney Vleugels） |
+| `wisp_fire.wav` | spell_fire_01.ogg（rubberduck） |
+| `wisp_flare.wav` | spell_fire_07.ogg（rubberduck） |
+| `wisp_shift.wav` | spell_fire_04.ogg（rubberduck） |
+
+发布页面HTML本地证据为 `v18_*_source.html`。它们是许可证/作者核对快照，不是游戏运行资源；网页中的预览图、其他用户评论、外链内容都没有当作素材接入。
+
+新增背景来自用户明确确认的12/13/14.jpg，不标记CC0，不擅自声明用户图片的外部作者或授权范围。原角色和其他背景来源继续见 `docs/ASSET_CREDITS.md`。

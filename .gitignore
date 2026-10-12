@@ -1,0 +1,31 @@
+# Local build caches and editor files
+.godot/
+.local_test/
+backups/
+releases/
+设定参考图/
+codex-proxy-guardian/
+work/
+node_modules/
+.DS_Store
+Thumbs.db
+# Private credentials and user profiles
+.env
+.env.*
+*.pem
+*.p12
+*.pfx
+*.key
+*.keystore
+*.jks
+export_credentials.cfg
+wordrogue_save.json
+wordrogue_audio.cfg
+*.log
+# Native binaries and archives
+*.exe
+*.dll
+*.apk
+*.aab
+*.zip
+*.tpz
