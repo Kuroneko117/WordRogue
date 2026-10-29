@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="80" viewBox="0 0 64 80">
+  <!-- Editable geometric book/tower mark, authored for the title direction study. -->
+  <g fill="none" stroke="#be9a74" stroke-width="1.6" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M20 50V26L32 10L44 26V50M16 50V32M48 32V50"/>
+    <path d="M28 44V32Q28 28 32 25Q36 28 36 32V44"/>
+    <path d="M9 54Q20 50 32 58Q44 50 55 54V67Q43 63 32 71Q21 63 9 67Z"/>
+    <path d="M32 58V71M14 58Q21 57 27 61M14 62Q21 61 27 65M37 61Q43 57 50 58M37 65Q43 61 50 62" stroke-opacity=".65"/>
+  </g>
+</svg>

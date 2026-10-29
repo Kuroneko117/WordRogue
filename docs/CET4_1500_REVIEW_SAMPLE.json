@@ -1,0 +1,2952 @@
+[
+  {
+    "word": "state",
+    "phonetic": "/steɪt/",
+    "meaning": "n. 州；状态",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 137,
+    "frq": 137,
+    "bnc": 194,
+    "gloss_tokens": [
+      "国务",
+      "国家",
+      "国家的",
+      "州",
+      "州的",
+      "情形",
+      "政府",
+      "正式的",
+      "状态",
+      "礼仪用的",
+      "社会地位",
+      "规定",
+      "说明",
+      "陈述",
+      "领土"
+    ],
+    "ambiguity_keys": [
+      "国务",
+      "国家",
+      "国家的",
+      "州",
+      "州的",
+      "情形",
+      "政府",
+      "正式的",
+      "状态",
+      "礼仪用的",
+      "社会地位",
+      "规定",
+      "说明",
+      "陈述",
+      "领土"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 州, 状态, 情形, 国家, 政府, 领土, 国务, 社会地位\na. 国家的, 正式的, 礼仪用的, 州的\nvt. 说明, 陈述, 规定\n[计] 状态"
+  },
+  {
+    "word": "power",
+    "phonetic": "/ˈpaʊə/",
+    "meaning": "n. 力量；权力",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 271,
+    "frq": 271,
+    "bnc": 225,
+    "gloss_tokens": [
+      "乘幂",
+      "乘方",
+      "体力",
+      "使有力量",
+      "供以动力",
+      "力",
+      "力量",
+      "功率",
+      "动力",
+      "势力",
+      "外部命令能控制许多电池电源计算机上的电源管理特性",
+      "幂",
+      "强国",
+      "强度",
+      "权力",
+      "激励"
+    ],
+    "ambiguity_keys": [
+      "syn_39",
+      "乘幂",
+      "乘方",
+      "体力",
+      "使有力量",
+      "供以动力",
+      "力",
+      "力量",
+      "功率",
+      "动力",
+      "势力",
+      "外部命令能控制许多电池电源计算机上的电源管理特性",
+      "幂",
+      "强国",
+      "强度",
+      "权力",
+      "激励"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 力, 体力, 力量, 势力, 动力, 权力, 强国, 乘方, 强度, 幂, 功率\nvt. 使...有力量, 供以动力, 激励\n[计] 乘幂; DOS外部命令:能控制许多电池电源计算机上的电源管理特性"
+  },
+  {
+    "word": "public",
+    "phonetic": "/ˈpʌblik/",
+    "meaning": "a. 公众的；公共的",
+    "level": "CET4",
+    "pos": "a.",
+    "frequency_rank": 333,
+    "frq": 333,
+    "bnc": 319,
+    "gloss_tokens": [
+      "公众",
+      "公众的",
+      "公共的",
+      "公用的",
+      "公立的",
+      "民众"
+    ],
+    "ambiguity_keys": [
+      "公众",
+      "公众的",
+      "公共的",
+      "公用的",
+      "公立的",
+      "民众"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 公众, 民众\na. 公众的, 公共的, 公立的, 公用的"
+  },
+  {
+    "word": "although",
+    "phonetic": "/ɔːlˈðəʊ/",
+    "meaning": "conj. 虽然；尽管",
+    "level": "CET4",
+    "pos": "conj.",
+    "frequency_rank": 378,
+    "frq": 378,
+    "bnc": 197,
+    "gloss_tokens": [
+      "尽管",
+      "虽然"
+    ],
+    "ambiguity_keys": [
+      "尽管",
+      "虽然"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "conj. 虽然, 尽管"
+  },
+  {
+    "word": "reach",
+    "phonetic": "/riːtʃ/",
+    "meaning": "v. 到达；达到",
+    "level": "CET4",
+    "pos": "v.",
+    "frequency_rank": 422,
+    "frq": 422,
+    "bnc": 404,
+    "gloss_tokens": [
+      "传到",
+      "伸出",
+      "伸出手",
+      "到达",
+      "区域",
+      "岬",
+      "延伸",
+      "影响",
+      "流域",
+      "范围",
+      "达到"
+    ],
+    "ambiguity_keys": [
+      "传到",
+      "伸出",
+      "伸出手",
+      "到达",
+      "区域",
+      "岬",
+      "延伸",
+      "影响",
+      "流域",
+      "范围",
+      "达到"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 伸出, 延伸, 区域, 范围, 流域, 岬\nvt. 到达, 达到, 伸出, 延伸, 影响\nvi. 达到, 延伸, 伸出手, 传到"
+  },
+  {
+    "word": "leader",
+    "phonetic": "/ˈliːdə/",
+    "meaning": "n. 领导者；领袖",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 463,
+    "frq": 463,
+    "bnc": 604,
+    "gloss_tokens": [
+      "前导字符",
+      "指挥",
+      "社论",
+      "领唱者",
+      "领导者",
+      "领袖"
+    ],
+    "ambiguity_keys": [
+      "前导字符",
+      "指挥",
+      "社论",
+      "领唱者",
+      "领导者",
+      "领袖"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 领导者, 社论, 指挥, 领袖, 领唱者, 前导字符\n[计] 前导字符"
+  },
+  {
+    "word": "model",
+    "phonetic": "/ˈmɒdəl/",
+    "meaning": "n. 模型；模范",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 504,
+    "frq": 504,
+    "bnc": 551,
+    "gloss_tokens": [
+      "作模型用的",
+      "使模仿",
+      "做模型",
+      "做模特儿",
+      "塑造",
+      "模型",
+      "模特儿",
+      "模范",
+      "模范的"
+    ],
+    "ambiguity_keys": [
+      "作模型用的",
+      "使模仿",
+      "做模型",
+      "做模特儿",
+      "塑造",
+      "模型",
+      "模特儿",
+      "模范",
+      "模范的"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 模型, 模范, 模特儿\na. 模范的, 作模型用的\nvi. 做模型, 做模特儿\nvt. 使模仿, 塑造\n[计] 模型"
+  },
+  {
+    "word": "project",
+    "phonetic": "/ˈprɒdʒekt/",
+    "meaning": "n. 项目；计划",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 534,
+    "frq": 534,
+    "bnc": 509,
+    "gloss_tokens": [
+      "事业",
+      "使凸出",
+      "凸出",
+      "发射",
+      "投掷",
+      "放映",
+      "计划",
+      "设计",
+      "项目"
+    ],
+    "ambiguity_keys": [
+      "事业",
+      "使凸出",
+      "凸出",
+      "发射",
+      "投掷",
+      "放映",
+      "计划",
+      "设计",
+      "项目"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 计划, 设计, 事业\nvt. 计划, 设计, 投掷, 发射, 使凸出, 放映\nvi. 凸出"
+  },
+  {
+    "word": "patient",
+    "phonetic": "/ˈpeɪʃənt/",
+    "meaning": "n. 病人",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 572,
+    "frq": 572,
+    "bnc": 384,
+    "gloss_tokens": [
+      "坚忍的",
+      "容忍的",
+      "忍耐的",
+      "承受者",
+      "有耐性的",
+      "病人"
+    ],
+    "ambiguity_keys": [
+      "坚忍的",
+      "容忍的",
+      "忍耐的",
+      "承受者",
+      "有耐性的",
+      "病人"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 病人, 承受者\na. 忍耐的, 容忍的, 有耐性的, 坚忍的"
+  },
+  {
+    "word": "evidence",
+    "phonetic": "/ˈevidəns/",
+    "meaning": "n. 根据；证据",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 606,
+    "frq": 606,
+    "bnc": 456,
+    "gloss_tokens": [
+      "凭证",
+      "根据",
+      "证据",
+      "迹象"
+    ],
+    "ambiguity_keys": [
+      "凭证",
+      "根据",
+      "证据",
+      "迹象"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 根据, 证据, 迹象\n[经] 证据, 凭证"
+  },
+  {
+    "word": "campaign",
+    "phonetic": "/kæmˈpeɪn/",
+    "meaning": "n. 战役；运动",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 640,
+    "frq": 640,
+    "bnc": 956,
+    "gloss_tokens": [
+      "作战",
+      "参加运动",
+      "战役",
+      "竞选运动",
+      "运动"
+    ],
+    "ambiguity_keys": [
+      "作战",
+      "参加运动",
+      "战役",
+      "竞选运动",
+      "运动"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 战役, 运动, 竞选运动\nvi. 参加运动, 作战"
+  },
+  {
+    "word": "officer",
+    "phonetic": "/ˈɒfisə/",
+    "meaning": "n. 军官；主管",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 671,
+    "frq": 671,
+    "bnc": 556,
+    "gloss_tokens": [
+      "主管",
+      "公务员",
+      "军官",
+      "官员",
+      "指挥"
+    ],
+    "ambiguity_keys": [
+      "主管",
+      "公务员",
+      "军官",
+      "官员",
+      "指挥"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 军官, 主管, 官员, 公务员\nvt. 指挥"
+  },
+  {
+    "word": "color",
+    "phonetic": "/ˈkʌlə/",
+    "meaning": "n. 颜色；面色",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 697,
+    "frq": 697,
+    "bnc": 24372,
+    "gloss_tokens": [
+      "使脸红",
+      "变色",
+      "外貌",
+      "把涂上颜色",
+      "歪曲",
+      "粉饰",
+      "面色",
+      "颜料",
+      "颜色"
+    ],
+    "ambiguity_keys": [
+      "使脸红",
+      "变色",
+      "外貌",
+      "把涂上颜色",
+      "歪曲",
+      "粉饰",
+      "面色",
+      "颜料",
+      "颜色"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 颜色, 面色, 颜料, 外貌\nvt. 把...涂上颜色, 粉饰, 使脸红, 歪曲\nvi. 变色"
+  },
+  {
+    "word": "decade",
+    "phonetic": "/ˈdekeɪd/",
+    "meaning": "n. 十年",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 730,
+    "frq": 730,
+    "bnc": 1539,
+    "gloss_tokens": [
+      "十",
+      "十年"
+    ],
+    "ambiguity_keys": [
+      "十",
+      "十年"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 十年, 十"
+  },
+  {
+    "word": "fund",
+    "phonetic": "/fʌnd/",
+    "meaning": "n. 基金；资金",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 754,
+    "frq": 754,
+    "bnc": 852,
+    "gloss_tokens": [
+      "基金",
+      "存款",
+      "提供资金",
+      "积累",
+      "财源",
+      "贮藏",
+      "资金"
+    ],
+    "ambiguity_keys": [
+      "基金",
+      "存款",
+      "提供资金",
+      "积累",
+      "财源",
+      "贮藏",
+      "资金"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 基金, 资金, 存款, 财源, 贮藏\nvt. 提供资金, 积累"
+  },
+  {
+    "word": "whatever",
+    "phonetic": "/hwɒtˈevə/",
+    "meaning": "pron. 无论什么",
+    "level": "CET4",
+    "pos": "pron.",
+    "frequency_rank": 776,
+    "frq": 776,
+    "bnc": 759,
+    "gloss_tokens": [
+      "无论什么"
+    ],
+    "ambiguity_keys": [
+      "无论什么"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "pron. 无论什么"
+  },
+  {
+    "word": "region",
+    "phonetic": "/ˈriːdʒən/",
+    "meaning": "n. 区域；地带",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 793,
+    "frq": 793,
+    "bnc": 713,
+    "gloss_tokens": [
+      "区",
+      "区域",
+      "地区",
+      "地带",
+      "范围",
+      "领域"
+    ],
+    "ambiguity_keys": [
+      "区",
+      "区域",
+      "地区",
+      "地带",
+      "范围",
+      "领域"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 区域, 地带, 地区, 领域, 范围, 区\n[计] 区, 区域"
+  },
+  {
+    "word": "operation",
+    "phonetic": "/ˌɒpəˈreɪʃən/",
+    "meaning": "n. 操作；动作",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 826,
+    "frq": 826,
+    "bnc": 619,
+    "gloss_tokens": [
+      "业务",
+      "作用",
+      "动作",
+      "手术",
+      "操作",
+      "运算"
+    ],
+    "ambiguity_keys": [
+      "业务",
+      "作用",
+      "动作",
+      "手术",
+      "操作",
+      "运算"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 操作, 动作, 手术, 运算, 作用, 业务\n[计] 运算"
+  },
+  {
+    "word": "democratic",
+    "phonetic": "/ˌdeməˈkrætik/",
+    "meaning": "a. 民主的",
+    "level": "CET4",
+    "pos": "a.",
+    "frequency_rank": 853,
+    "frq": 853,
+    "bnc": 1605,
+    "gloss_tokens": [
+      "平民的",
+      "民主政体的",
+      "民主的"
+    ],
+    "ambiguity_keys": [
+      "平民的",
+      "民主政体的",
+      "民主的"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "a. 民主的\n[法] 民主的, 民主政体的, 平民的"
+  },
+  {
+    "word": "final",
+    "phonetic": "/ˈfaɪnl/",
+    "meaning": "a. 最后的；最终的",
+    "level": "CET4",
+    "pos": "a.",
+    "frequency_rank": 887,
+    "frq": 887,
+    "bnc": 778,
+    "gloss_tokens": [
+      "决定性的",
+      "决赛",
+      "最后的",
+      "最终的",
+      "期末考试",
+      "终极的",
+      "结局"
+    ],
+    "ambiguity_keys": [
+      "决定性的",
+      "决赛",
+      "最后的",
+      "最终的",
+      "期末考试",
+      "终极的",
+      "结局"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 期末考试, 结局, 决赛\na. 最后的, 终极的, 决定性的"
+  },
+  {
+    "word": "statement",
+    "phonetic": "/ˈsteɪtmənt/",
+    "meaning": "n. 陈述；声明",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 921,
+    "frq": 921,
+    "bnc": 717,
+    "gloss_tokens": [
+      "声明",
+      "指令",
+      "程序语句",
+      "语句",
+      "陈述"
+    ],
+    "ambiguity_keys": [
+      "声明",
+      "指令",
+      "程序语句",
+      "语句",
+      "陈述"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 陈述, 指令, 声明\n[计] 程序语句; 语句"
+  },
+  {
+    "word": "interview",
+    "phonetic": "/ˈintəvjuː/",
+    "meaning": "n. 面谈；访问",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 944,
+    "frq": 944,
+    "bnc": 1421,
+    "gloss_tokens": [
+      "对进行面谈",
+      "接见",
+      "访问",
+      "面试",
+      "面谈"
+    ],
+    "ambiguity_keys": [
+      "对进行面谈",
+      "接见",
+      "访问",
+      "面试",
+      "面谈"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 面谈, 访问, 接见, 面试\nvt. 接见, 对...进行面谈(试)"
+  },
+  {
+    "word": "unit",
+    "phonetic": "/ˈjuːnit/",
+    "meaning": "n. 单位；分队",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 966,
+    "frq": 966,
+    "bnc": 560,
+    "gloss_tokens": [
+      "分队",
+      "单位",
+      "单位的",
+      "单元",
+      "单元常数",
+      "单元的",
+      "装置",
+      "部件",
+      "部队"
+    ],
+    "ambiguity_keys": [
+      "分队",
+      "单位",
+      "单位的",
+      "单元",
+      "单元常数",
+      "单元的",
+      "装置",
+      "部件",
+      "部队"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 单位, 分队, 部队, 单元, 部件, 装置\na. 单位的, 单元的\n[计] 单元常数; 部件"
+  },
+  {
+    "word": "improve",
+    "phonetic": "/imˈpruːv/",
+    "meaning": "v. 改善；提高",
+    "level": "CET4",
+    "pos": "v.",
+    "frequency_rank": 995,
+    "frq": 995,
+    "bnc": 903,
+    "gloss_tokens": [
+      "利用",
+      "变得更好",
+      "增加",
+      "提高",
+      "提高的价值",
+      "改善",
+      "改良"
+    ],
+    "ambiguity_keys": [
+      "syn_9",
+      "利用",
+      "变得更好",
+      "增加",
+      "提高",
+      "提高的价值",
+      "改善",
+      "改良"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "vt. 改良, 提高...的价值, 改善, 利用\nvi. 变得更好, 增加"
+  },
+  {
+    "word": "owner",
+    "phonetic": "/ˈəunə/",
+    "meaning": "n. 拥有者；物主",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1021,
+    "frq": 1021,
+    "bnc": 1153,
+    "gloss_tokens": [
+      "业主",
+      "所有人",
+      "所有者",
+      "拥有者",
+      "物主"
+    ],
+    "ambiguity_keys": [
+      "业主",
+      "所有人",
+      "所有者",
+      "拥有者",
+      "物主"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 拥有者, 物主, 所有人\n[经] 所有者, 物主, 业主"
+  },
+  {
+    "word": "finger",
+    "phonetic": "/ˈfiŋgə/",
+    "meaning": "n. 手指；指状物",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1042,
+    "frq": 1042,
+    "bnc": 1109,
+    "gloss_tokens": [
+      "伸出",
+      "手指",
+      "手指部分",
+      "指状物",
+      "指针",
+      "用手指拨弄",
+      "网络命令"
+    ],
+    "ambiguity_keys": [
+      "伸出",
+      "手指",
+      "手指部分",
+      "指状物",
+      "指针",
+      "用手指拨弄",
+      "网络命令"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 手指, 指状物, (手套的)手指部分, 指针\nv. 用手指拨弄, 伸出\n[计] 网络命令"
+  },
+  {
+    "word": "score",
+    "phonetic": "/skɔː/",
+    "meaning": "n. 得分；分数",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1070,
+    "frq": 1070,
+    "bnc": 1818,
+    "gloss_tokens": [
+      "乐谱",
+      "二十个",
+      "分数",
+      "划线",
+      "刻划",
+      "刻痕",
+      "大量",
+      "帐目",
+      "得分",
+      "把记下",
+      "抓痕",
+      "终点线",
+      "获得",
+      "记分",
+      "评价",
+      "起跑线"
+    ],
+    "ambiguity_keys": [
+      "乐谱",
+      "二十个",
+      "分数",
+      "划线",
+      "刻划",
+      "刻痕",
+      "大量",
+      "帐目",
+      "得分",
+      "把记下",
+      "抓痕",
+      "终点线",
+      "获得",
+      "记分",
+      "评价",
+      "起跑线"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 得分, 抓痕, 二十个, 刻痕, 帐目, 乐谱, 起跑线, 终点线, 大量\nvt. 刻划, 划线, 获得, 评价, 把...记下\nvi. 刻痕, 记分, 得分\n[计] 得分"
+  },
+  {
+    "word": "customer",
+    "phonetic": "/ˈkʌstəmə/",
+    "meaning": "n. 顾客；客户",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1098,
+    "frq": 1098,
+    "bnc": 879,
+    "gloss_tokens": [
+      "客户",
+      "消费者",
+      "顾客"
+    ],
+    "ambiguity_keys": [
+      "客户",
+      "消费者",
+      "顾客"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 消费者\n[化] 顾客"
+  },
+  {
+    "word": "judge",
+    "phonetic": "/dʒʌdʒ/",
+    "meaning": "n. 法官；裁判员",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1115,
+    "frq": 1115,
+    "bnc": 1362,
+    "gloss_tokens": [
+      "下判断",
+      "作评价",
+      "判决",
+      "判断",
+      "审判官",
+      "审理",
+      "法官",
+      "裁判员",
+      "裁定",
+      "鉴定",
+      "鉴定人"
+    ],
+    "ambiguity_keys": [
+      "下判断",
+      "作评价",
+      "判决",
+      "判断",
+      "审判官",
+      "审理",
+      "法官",
+      "裁判员",
+      "裁定",
+      "鉴定",
+      "鉴定人"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 法官, 裁判员, 审判官, 鉴定人\nvt. 审理, 鉴定, 判断, 判决, 裁定\nvi. 下判断, 作评价"
+  },
+  {
+    "word": "directly",
+    "phonetic": "/diˈrektli, daɪˈrektli/",
+    "meaning": "adv. 径直地；直接地",
+    "level": "CET4",
+    "pos": "adv.",
+    "frequency_rank": 1139,
+    "frq": 1139,
+    "bnc": 1146,
+    "gloss_tokens": [
+      "一",
+      "一当就",
+      "径直地",
+      "正好地",
+      "直截了当地",
+      "直接地",
+      "直接的",
+      "直率地",
+      "立即",
+      "马上"
+    ],
+    "ambiguity_keys": [
+      "一",
+      "一当就",
+      "径直地",
+      "正好地",
+      "直截了当地",
+      "直接地",
+      "直接的",
+      "直率地",
+      "立即",
+      "马上"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "adv. 径直地, 直接地, 直率地, 正好地, 直截了当地, (非正式)立即, 马上\nconj. 一...(就...), 一当...就...\n[计] 直接的"
+  },
+  {
+    "word": "conduct",
+    "phonetic": "/kənˈdʌkt/",
+    "meaning": "v. 进行；实施",
+    "level": "CET4",
+    "pos": "v.",
+    "frequency_rank": 1162,
+    "frq": 1162,
+    "bnc": 1792,
+    "gloss_tokens": [
+      "为人",
+      "举动",
+      "传导",
+      "实施",
+      "指导",
+      "指挥",
+      "管理",
+      "行为",
+      "进行",
+      "领导"
+    ],
+    "ambiguity_keys": [
+      "为人",
+      "举动",
+      "传导",
+      "实施",
+      "指导",
+      "指挥",
+      "管理",
+      "行为",
+      "进行",
+      "领导"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 行为, 举动, 指导\nvt. 为人, 指挥, 管理, 实施\nvi. 领导, 传导, 指挥"
+  },
+  {
+    "word": "camp",
+    "phonetic": "/kæmp/",
+    "meaning": "n. 营地；露营",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1188,
+    "frq": 1188,
+    "bnc": 2079,
+    "gloss_tokens": [
+      "使扎营",
+      "帐篷",
+      "扎营",
+      "营地",
+      "露营"
+    ],
+    "ambiguity_keys": [
+      "使扎营",
+      "帐篷",
+      "扎营",
+      "营地",
+      "露营"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 露营, 帐篷\nvi. 露营, 扎营\nvt. 使扎营"
+  },
+  {
+    "word": "easily",
+    "phonetic": "/ˈiːzili/",
+    "meaning": "adv. 容易地；轻易地",
+    "level": "CET4",
+    "pos": "adv.",
+    "frequency_rank": 1211,
+    "frq": 1211,
+    "bnc": 1004,
+    "gloss_tokens": [
+      "容易地",
+      "流利地",
+      "轻易地"
+    ],
+    "ambiguity_keys": [
+      "容易地",
+      "流利地",
+      "轻易地"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "adv. 容易地, 轻易地, 流利地"
+  },
+  {
+    "word": "wood",
+    "phonetic": "/wud/",
+    "meaning": "n. 木材；木制品",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1236,
+    "frq": 1236,
+    "bnc": 1414,
+    "gloss_tokens": [
+      "收集木材",
+      "木制品",
+      "木材",
+      "植林于",
+      "给添加木柴"
+    ],
+    "ambiguity_keys": [
+      "收集木材",
+      "木制品",
+      "木材",
+      "植林于",
+      "给添加木柴"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 木材, 木制品\nvt. 植林于, 给...添加木柴\nvi. 收集木材"
+  },
+  {
+    "word": "potential",
+    "phonetic": "/pəˈtenʃəl/",
+    "meaning": "n. 潜力；潜能",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1260,
+    "frq": 1260,
+    "bnc": 1438,
+    "gloss_tokens": [
+      "位",
+      "势",
+      "可能性",
+      "可能的",
+      "有潜力的",
+      "潜力",
+      "潜在性",
+      "潜在的",
+      "潜能"
+    ],
+    "ambiguity_keys": [
+      "位",
+      "势",
+      "可能性",
+      "可能的",
+      "有潜力的",
+      "潜力",
+      "潜在性",
+      "潜在的",
+      "潜能"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 潜在性, 可能性, 潜力, 潜能, 势, 位\na. 有潜力的, 可能的, 潜在的"
+  },
+  {
+    "word": "target",
+    "phonetic": "/ˈtɑːgit/",
+    "meaning": "n. 目标；靶子",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1281,
+    "frq": 1281,
+    "bnc": 1095,
+    "gloss_tokens": [
+      "对准",
+      "指标",
+      "目标",
+      "订指标",
+      "靶子"
+    ],
+    "ambiguity_keys": [
+      "syn_27",
+      "对准",
+      "指标",
+      "目标",
+      "订指标",
+      "靶子"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 目标, 靶子, 指标\nvt. 对准, 订指标"
+  },
+  {
+    "word": "earn",
+    "phonetic": "/ɜːn/",
+    "meaning": "vt. 赚得；获得",
+    "level": "CET4",
+    "pos": "vt.",
+    "frequency_rank": 1305,
+    "frq": 1305,
+    "bnc": 1727,
+    "gloss_tokens": [
+      "博得",
+      "欧州科学研究网",
+      "获得",
+      "赚得"
+    ],
+    "ambiguity_keys": [
+      "博得",
+      "欧州科学研究网",
+      "获得",
+      "赚得"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "vt. 赚得, 获得, 博得\n[计] 欧州科学研究网"
+  },
+  {
+    "word": "faith",
+    "phonetic": "/feɪθ/",
+    "meaning": "n. 信心；信任",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1326,
+    "frq": 1326,
+    "bnc": 1738,
+    "gloss_tokens": [
+      "保证",
+      "信仰",
+      "信任",
+      "信心",
+      "信念",
+      "忠实"
+    ],
+    "ambiguity_keys": [
+      "保证",
+      "信仰",
+      "信任",
+      "信心",
+      "信念",
+      "忠实"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 信心, 信任, 忠实, 保证\n[法] 信任, 信仰, 信念"
+  },
+  {
+    "word": "equipment",
+    "phonetic": "/iˈkwipmənt/",
+    "meaning": "n. 设备；装备",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1352,
+    "frq": 1352,
+    "bnc": 1117,
+    "gloss_tokens": [
+      "才能",
+      "装备",
+      "装置",
+      "设备"
+    ],
+    "ambiguity_keys": [
+      "才能",
+      "装备",
+      "装置",
+      "设备"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 装备, 设备, 才能\n[化] 设备; 装备; 装置"
+  },
+  {
+    "word": "demonstrate",
+    "phonetic": "/ˈdemənstreɪt/",
+    "meaning": "vt. 示范；证明",
+    "level": "CET4",
+    "pos": "vt.",
+    "frequency_rank": 1379,
+    "frq": 1379,
+    "bnc": 1392,
+    "gloss_tokens": [
+      "示威",
+      "示范",
+      "证明"
+    ],
+    "ambiguity_keys": [
+      "示威",
+      "示范",
+      "证明"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "vt. 示范, 证明\nvi. 示威"
+  },
+  {
+    "word": "wave",
+    "phonetic": "/weɪv/",
+    "meaning": "n. 波；波浪",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1398,
+    "frq": 1398,
+    "bnc": 1586,
+    "gloss_tokens": [
+      "使成波浪形",
+      "使波动",
+      "使飘扬",
+      "挥手示意",
+      "挥手致意",
+      "挥舞",
+      "波",
+      "波动",
+      "波浪",
+      "潮涌",
+      "突变",
+      "起伏",
+      "飘动",
+      "高潮"
+    ],
+    "ambiguity_keys": [
+      "使成波浪形",
+      "使波动",
+      "使飘扬",
+      "挥手示意",
+      "挥手致意",
+      "挥舞",
+      "波",
+      "波动",
+      "波浪",
+      "潮涌",
+      "突变",
+      "起伏",
+      "飘动",
+      "高潮"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 波, 波浪, 波动, 起伏, 高潮, 潮涌, 挥手致意, (气压)突变\nvi. 波动, 飘动, 挥手示意, 起伏\nvt. 使波动, 使飘扬, 挥舞, 使成波浪形"
+  },
+  {
+    "word": "committee",
+    "phonetic": "/kəˈmiti/",
+    "meaning": "n. 委员会",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1428,
+    "frq": 1428,
+    "bnc": 450,
+    "gloss_tokens": [
+      "委员会"
+    ],
+    "ambiguity_keys": [
+      "委员会"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 委员会\n[经] 委员会"
+  },
+  {
+    "word": "moral",
+    "phonetic": "/ˈmɒrəl/",
+    "meaning": "a. 道德的",
+    "level": "CET4",
+    "pos": "a.",
+    "frequency_rank": 1459,
+    "frq": 1459,
+    "bnc": 1787,
+    "gloss_tokens": [
+      "品性端正的",
+      "品行",
+      "寓意",
+      "精神上的",
+      "道德",
+      "道德的"
+    ],
+    "ambiguity_keys": [
+      "品性端正的",
+      "品行",
+      "寓意",
+      "精神上的",
+      "道德",
+      "道德的"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 道德, 品行, 寓意\na. 道德的, 品性端正的, 精神上的"
+  },
+  {
+    "word": "fair",
+    "phonetic": "/feə/",
+    "meaning": "a. 公平的；公正的",
+    "level": "CET4",
+    "pos": "a.",
+    "frequency_rank": 1484,
+    "frq": 1484,
+    "bnc": 1150,
+    "gloss_tokens": [
+      "不好不坏的",
+      "公平地",
+      "公平的",
+      "公正的",
+      "展览会",
+      "市集",
+      "按规则进行的",
+      "晴朗的",
+      "有教养地",
+      "正面地",
+      "清楚地",
+      "美丽的",
+      "美好的事物",
+      "转晴"
+    ],
+    "ambiguity_keys": [
+      "syn_18",
+      "不好不坏的",
+      "公平地",
+      "公平的",
+      "公正的",
+      "展览会",
+      "市集",
+      "按规则进行的",
+      "晴朗的",
+      "有教养地",
+      "正面地",
+      "清楚地",
+      "美丽的",
+      "美好的事物",
+      "转晴"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 展览会, 市集, 美好的事物\na. 公平的, 按规则进行的, 不好不坏的, 晴朗的, 美丽的\nadv. 公平地, 正面地, 有教养地, 清楚地\nvi. 转晴"
+  },
+  {
+    "word": "device",
+    "phonetic": "/diˈvaɪs/",
+    "meaning": "n. 装置；设备",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1507,
+    "frq": 1507,
+    "bnc": 1825,
+    "gloss_tokens": [
+      "内部命令该命令要求安装一个设备驱动程序",
+      "发明物",
+      "策略",
+      "装置",
+      "设备",
+      "设计"
+    ],
+    "ambiguity_keys": [
+      "内部命令该命令要求安装一个设备驱动程序",
+      "发明物",
+      "策略",
+      "装置",
+      "设备",
+      "设计"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 装置, 设计, 策略, 发明物, 设备\n[计] 设备; DOS内部命令:该命令要求DOS安装一个设备驱动程序"
+  },
+  {
+    "word": "male",
+    "phonetic": "/meɪl/",
+    "meaning": "n. 男人；雄性动物",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1530,
+    "frq": 1530,
+    "bnc": 1126,
+    "gloss_tokens": [
+      "有力的",
+      "男人",
+      "男性的",
+      "雄性动物",
+      "雄性的"
+    ],
+    "ambiguity_keys": [
+      "有力的",
+      "男人",
+      "男性的",
+      "雄性动物",
+      "雄性的"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 男人, 雄性动物\na. 男性的, 雄性的, 有力的"
+  },
+  {
+    "word": "paint",
+    "phonetic": "/peɪnt/",
+    "meaning": "n. 油漆；颜料",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1555,
+    "frq": 1555,
+    "bnc": 2040,
+    "gloss_tokens": [
+      "描绘",
+      "油漆",
+      "涂漆",
+      "点缀",
+      "画",
+      "绘",
+      "绘画",
+      "绘画作品",
+      "装饰",
+      "颜料"
+    ],
+    "ambiguity_keys": [
+      "描绘",
+      "油漆",
+      "涂漆",
+      "点缀",
+      "画",
+      "绘",
+      "绘画",
+      "绘画作品",
+      "装饰",
+      "颜料"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 油漆, 颜料, 绘画作品, 涂漆\nvt. 油漆, 绘, 画, 描绘, 装饰, 点缀\nvi. 绘画, 涂漆"
+  },
+  {
+    "word": "lip",
+    "phonetic": "/lip/",
+    "meaning": "n. 唇；口缘",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1582,
+    "frq": 1582,
+    "bnc": 1452,
+    "gloss_tokens": [
+      "以嘴唇碰",
+      "口头上的",
+      "口缘",
+      "唇",
+      "唇状构造",
+      "大型互连网信息包",
+      "轻轻说出"
+    ],
+    "ambiguity_keys": [
+      "以嘴唇碰",
+      "口头上的",
+      "口缘",
+      "唇",
+      "唇状构造",
+      "大型互连网信息包",
+      "轻轻说出"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 唇, 口缘, 唇状构造\nvt. 以嘴唇碰, 轻轻说出\na. 口头上的\n[计] 大型互连网信息包"
+  },
+  {
+    "word": "soul",
+    "phonetic": "/səul/",
+    "meaning": "n. 灵魂；心灵",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1604,
+    "frq": 1604,
+    "bnc": 2291,
+    "gloss_tokens": [
+      "人",
+      "典型",
+      "化身",
+      "心灵",
+      "灵魂",
+      "精神",
+      "精髓",
+      "鬼魂",
+      "黑人的"
+    ],
+    "ambiguity_keys": [
+      "syn_24",
+      "人",
+      "典型",
+      "化身",
+      "心灵",
+      "灵魂",
+      "精神",
+      "精髓",
+      "鬼魂",
+      "黑人的"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 灵魂, 心灵, 精神, 精髓, 人, 化身, 典型, 鬼魂\na. 黑人的"
+  },
+  {
+    "word": "sight",
+    "phonetic": "/saɪt/",
+    "meaning": "n. 视力；景象",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1629,
+    "frq": 1629,
+    "bnc": 1298,
+    "gloss_tokens": [
+      "即席的",
+      "意见",
+      "景观",
+      "景象",
+      "看见",
+      "眼界",
+      "瞄准",
+      "见票即付的",
+      "见解",
+      "观看",
+      "视力",
+      "阅读"
+    ],
+    "ambiguity_keys": [
+      "syn_22",
+      "即席的",
+      "意见",
+      "景观",
+      "景象",
+      "看见",
+      "眼界",
+      "瞄准",
+      "见票即付的",
+      "见解",
+      "观看",
+      "视力",
+      "阅读"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 景观, 视力, 眼界, 阅读, 见解, 意见\nvt. 看见, 瞄准\nvi. 瞄准, 观看\na. 即席的, 见票即付的"
+  },
+  {
+    "word": "breast",
+    "phonetic": "/brest/",
+    "meaning": "n. 胸部；乳房",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1652,
+    "frq": 1652,
+    "bnc": 2793,
+    "gloss_tokens": [
+      "乳房",
+      "以胸对着",
+      "胸怀",
+      "胸部",
+      "面对"
+    ],
+    "ambiguity_keys": [
+      "乳房",
+      "以胸对着",
+      "胸怀",
+      "胸部",
+      "面对"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 胸部, 乳房, 胸怀\nvt. 以胸对着, 面对"
+  },
+  {
+    "word": "appearance",
+    "phonetic": "/əˈpɪərəns/",
+    "meaning": "n. 出现；露面",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1684,
+    "frq": 1684,
+    "bnc": 1435,
+    "gloss_tokens": [
+      "出版",
+      "出现",
+      "外表",
+      "外观",
+      "版面",
+      "露面"
+    ],
+    "ambiguity_keys": [
+      "出版",
+      "出现",
+      "外表",
+      "外观",
+      "版面",
+      "露面"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 出现, 露面, 外观, 外表, 出版\n[计] 外观, 版面"
+  },
+  {
+    "word": "accident",
+    "phonetic": "/ˈæksidənt/",
+    "meaning": "n. 事故；意外事件",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1707,
+    "frq": 1707,
+    "bnc": 1187,
+    "gloss_tokens": [
+      "事故",
+      "意外事件",
+      "意外事故",
+      "机遇",
+      "次要方面"
+    ],
+    "ambiguity_keys": [
+      "事故",
+      "意外事件",
+      "意外事故",
+      "机遇",
+      "次要方面"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 意外事件, 机遇, 事故, 次要方面\n[化] 意外事故; 事故"
+  },
+  {
+    "word": "link",
+    "phonetic": "/liŋk/",
+    "meaning": "n. 联系；连接",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1730,
+    "frq": 1730,
+    "bnc": 1277,
+    "gloss_tokens": [
+      "挽住",
+      "火把",
+      "环",
+      "联合",
+      "联系",
+      "连接",
+      "连接起来",
+      "连结",
+      "连结物",
+      "链接",
+      "链路"
+    ],
+    "ambiguity_keys": [
+      "挽住",
+      "火把",
+      "环",
+      "联合",
+      "联系",
+      "连接",
+      "连接起来",
+      "连结",
+      "连结物",
+      "链接",
+      "链路"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 环, 连结物, 链接, 火把\nvt. 连结, 联合, 挽住\nvi. 连接起来\n[计] 连接, 链路"
+  },
+  {
+    "word": "sheet",
+    "phonetic": "/ʃiːt/",
+    "meaning": "n. 床单；薄片",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1753,
+    "frq": 1753,
+    "bnc": 1430,
+    "gloss_tokens": [
+      "印刷品",
+      "大片落下",
+      "工作表",
+      "床单",
+      "张",
+      "成薄片的",
+      "片状的",
+      "盖上被单",
+      "纸张",
+      "薄片",
+      "裹尸布",
+      "遍布"
+    ],
+    "ambiguity_keys": [
+      "印刷品",
+      "大片落下",
+      "工作表",
+      "床单",
+      "张",
+      "成薄片的",
+      "片状的",
+      "盖上被单",
+      "纸张",
+      "薄片",
+      "裹尸布",
+      "遍布"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 床单, 张, 纸张, 印刷品, 裹尸布, 薄片\nvt. 盖上被单, 遍布\nvi. 大片落下\na. 片状的, 成薄片的\n[计] 工作表"
+  },
+  {
+    "word": "guide",
+    "phonetic": "/gaɪd/",
+    "meaning": "n. 引导者；导游",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1779,
+    "frq": 1779,
+    "bnc": 1645,
+    "gloss_tokens": [
+      "任向导",
+      "导游",
+      "带领",
+      "引导者",
+      "指南",
+      "指导",
+      "操纵",
+      "支配",
+      "管理",
+      "路标",
+      "辅助线"
+    ],
+    "ambiguity_keys": [
+      "任向导",
+      "导游",
+      "带领",
+      "引导者",
+      "指南",
+      "指导",
+      "操纵",
+      "支配",
+      "管理",
+      "路标",
+      "辅助线"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 引导者, 导游, 指南, 路标\nvt. 指导, 支配, 管理, 带领, 操纵\nvi. 任向导\n[计] 辅助线"
+  },
+  {
+    "word": "crazy",
+    "phonetic": "/ˈkreɪzi/",
+    "meaning": "a. 发狂的；狂热的",
+    "level": "CET4",
+    "pos": "a.",
+    "frequency_rank": 1803,
+    "frq": 1803,
+    "bnc": 3837,
+    "gloss_tokens": [
+      "发狂的",
+      "狂热的"
+    ],
+    "ambiguity_keys": [
+      "发狂的",
+      "狂热的"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "a. 发狂的, 狂热的"
+  },
+  {
+    "word": "solve",
+    "phonetic": "/sɒlv/",
+    "meaning": "v. 解决；解答",
+    "level": "CET4",
+    "pos": "v.",
+    "frequency_rank": 1825,
+    "frq": 1825,
+    "bnc": 2279,
+    "gloss_tokens": [
+      "付给",
+      "求解",
+      "溶解",
+      "解决",
+      "解答"
+    ],
+    "ambiguity_keys": [
+      "付给",
+      "求解",
+      "溶解",
+      "解决",
+      "解答"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "vt. 解决, 付给, 溶解\nvt. 求解\nvi. 求解\n[计] 求解"
+  },
+  {
+    "word": "meanwhile",
+    "phonetic": "/ˈmiːnhwaɪl/",
+    "meaning": "adv. 同时；其间",
+    "level": "CET4",
+    "pos": "adv.",
+    "frequency_rank": 1847,
+    "frq": 1847,
+    "bnc": 1886,
+    "gloss_tokens": [
+      "于此时",
+      "其时",
+      "其间",
+      "同时"
+    ],
+    "ambiguity_keys": [
+      "于此时",
+      "其时",
+      "其间",
+      "同时"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 其时, 其间\nadv. 同时, 于此时"
+  },
+  {
+    "word": "confidence",
+    "phonetic": "/ˈkɒnfidəns/",
+    "meaning": "n. 信心",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1870,
+    "frq": 1870,
+    "bnc": 1342,
+    "gloss_tokens": [
+      "信心",
+      "可靠"
+    ],
+    "ambiguity_keys": [
+      "信心",
+      "可靠"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 信心\n[电] 可靠"
+  },
+  {
+    "word": "stir",
+    "phonetic": "/stɜː/",
+    "meaning": "v. 搅动；激起",
+    "level": "CET4",
+    "pos": "v.",
+    "frequency_rank": 1899,
+    "frq": 1899,
+    "bnc": 3008,
+    "gloss_tokens": [
+      "传播",
+      "惹起",
+      "搅动",
+      "搅拌",
+      "摇动",
+      "激起",
+      "监狱",
+      "移动",
+      "走动",
+      "轰动",
+      "骚动"
+    ],
+    "ambiguity_keys": [
+      "传播",
+      "惹起",
+      "搅动",
+      "搅拌",
+      "摇动",
+      "激起",
+      "监狱",
+      "移动",
+      "走动",
+      "轰动",
+      "骚动"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 骚动, 轰动, 搅动, 监狱\nvt. 移动, 摇动, 激起, 惹起, 搅拌\nvi. 走动, 传播, 搅拌"
+  },
+  {
+    "word": "tip",
+    "phonetic": "/tip/",
+    "meaning": "n. 尖端；小费",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1928,
+    "frq": 1928,
+    "bnc": 2631,
+    "gloss_tokens": [
+      "使倾斜",
+      "使翻倒",
+      "倾斜",
+      "倾覆",
+      "告诫",
+      "垃圾场",
+      "小费",
+      "尖端",
+      "技巧",
+      "指点",
+      "提示",
+      "暗示",
+      "末端",
+      "梢",
+      "泄露",
+      "秘密消息",
+      "终端接口处理器",
+      "给小费",
+      "翻倒",
+      "装顶端",
+      "踮脚走",
+      "轻击",
+      "顶"
+    ],
+    "ambiguity_keys": [
+      "使倾斜",
+      "使翻倒",
+      "倾斜",
+      "倾覆",
+      "告诫",
+      "垃圾场",
+      "小费",
+      "尖端",
+      "技巧",
+      "指点",
+      "提示",
+      "暗示",
+      "末端",
+      "梢",
+      "泄露",
+      "秘密消息",
+      "终端接口处理器",
+      "给小费",
+      "翻倒",
+      "装顶端",
+      "踮脚走",
+      "轻击",
+      "顶"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 顶, 尖端, 梢, 末端, 倾斜, 垃圾场, 小费, 轻击, 指点, 秘密消息\nvt. 装顶端, 使倾斜, 使翻倒, 泄露, 告诫, 暗示, 给...小费, 轻击\nvi. 倾斜, 翻倒, 倾覆, 踮脚走, 给小费\n[计] 终端接口处理器, 提示, 技巧"
+  },
+  {
+    "word": "criminal",
+    "phonetic": "/ˈkriminəl/",
+    "meaning": "n. 罪犯",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1953,
+    "frq": 1953,
+    "bnc": 2063,
+    "gloss_tokens": [
+      "刑事",
+      "刑事的",
+      "有罪的",
+      "犯了罪的",
+      "犯人",
+      "罪犯"
+    ],
+    "ambiguity_keys": [
+      "刑事",
+      "刑事的",
+      "有罪的",
+      "犯了罪的",
+      "犯人",
+      "罪犯"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 罪犯, 犯人, 刑事\na. 犯了罪的, 刑事的, 有罪的"
+  },
+  {
+    "word": "incident",
+    "phonetic": "/ˈinsidənt/",
+    "meaning": "n. 事件",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1980,
+    "frq": 1980,
+    "bnc": 1785,
+    "gloss_tokens": [
+      "事件",
+      "事变",
+      "入射的",
+      "外来的",
+      "小事",
+      "易于发生的",
+      "附带的"
+    ],
+    "ambiguity_keys": [
+      "事件",
+      "事变",
+      "入射的",
+      "外来的",
+      "小事",
+      "易于发生的",
+      "附带的"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 事件, 事变, 小事\na. 附带的, 易于发生的, 外来的, 入射的"
+  },
+  {
+    "word": "wheel",
+    "phonetic": "/hwiːl/",
+    "meaning": "n. 轮子；车轮",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 1999,
+    "frq": 1999,
+    "bnc": 2175,
+    "gloss_tokens": [
+      "使旋转",
+      "使转向",
+      "方向盘",
+      "旋转",
+      "机构",
+      "盘旋",
+      "车轮",
+      "转动",
+      "转弯",
+      "轮",
+      "轮子",
+      "重要人物"
+    ],
+    "ambiguity_keys": [
+      "使旋转",
+      "使转向",
+      "方向盘",
+      "旋转",
+      "机构",
+      "盘旋",
+      "车轮",
+      "转动",
+      "转弯",
+      "轮",
+      "轮子",
+      "重要人物"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 轮子, 车轮, 轮, 方向盘, 旋转, 机构, 重要人物\nvt. 使旋转, 转动, 使转向\nvi. 旋转, 转弯, 盘旋"
+  },
+  {
+    "word": "accuse",
+    "phonetic": "/əˈkjuːz/",
+    "meaning": "vt. 指责；控告",
+    "level": "CET4",
+    "pos": "vt.",
+    "frequency_rank": 2024,
+    "frq": 2024,
+    "bnc": 1893,
+    "gloss_tokens": [
+      "归咎于",
+      "指责",
+      "控告"
+    ],
+    "ambiguity_keys": [
+      "归咎于",
+      "指责",
+      "控告"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "vt. 指责, 控告, 归咎于\nvi. 指责, 控告"
+  },
+  {
+    "word": "virtually",
+    "phonetic": "/ˈvɜːtʃʊəli/",
+    "meaning": "adv. 事实上",
+    "level": "CET4",
+    "pos": "adv.",
+    "frequency_rank": 2046,
+    "frq": 2046,
+    "bnc": 2034,
+    "gloss_tokens": [
+      "事实上"
+    ],
+    "ambiguity_keys": [
+      "事实上"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "adv. 事实上"
+  },
+  {
+    "word": "weak",
+    "phonetic": "/wiːk/",
+    "meaning": "a. 虚弱的；薄弱的",
+    "level": "CET4",
+    "pos": "a.",
+    "frequency_rank": 2070,
+    "frq": 2070,
+    "bnc": 1990,
+    "gloss_tokens": [
+      "不充分的",
+      "不牢固的",
+      "弱的",
+      "无力的",
+      "无权力的",
+      "疲软的",
+      "薄弱的",
+      "虚弱的",
+      "软弱的"
+    ],
+    "ambiguity_keys": [
+      "不充分的",
+      "不牢固的",
+      "弱的",
+      "无力的",
+      "无权力的",
+      "疲软的",
+      "薄弱的",
+      "虚弱的",
+      "软弱的"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "a. 不牢固的, 弱的, 虚弱的, 软弱的, 无力的, 无权力的, (论据等)不充分的\n[经] 疲软的"
+  },
+  {
+    "word": "depression",
+    "phonetic": "/diˈpreʃən/",
+    "meaning": "n. 不景气；消沉",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 2095,
+    "frq": 2095,
+    "bnc": 3114,
+    "gloss_tokens": [
+      "不景气",
+      "俯角",
+      "凹",
+      "压低",
+      "抑郁",
+      "沮丧",
+      "洼地",
+      "消沉",
+      "窝",
+      "衰退",
+      "阻抑"
+    ],
+    "ambiguity_keys": [
+      "不景气",
+      "俯角",
+      "凹",
+      "压低",
+      "抑郁",
+      "沮丧",
+      "洼地",
+      "消沉",
+      "窝",
+      "衰退",
+      "阻抑"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 不景气, 消沉, 沮丧, 洼地\n[医] 抑郁[症], 阻抑, 压低, 凹, 窝, 衰退, 俯角"
+  },
+  {
+    "word": "graduate",
+    "phonetic": "/ˈɡrædʒʊət/",
+    "meaning": "n. 毕业生",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 2115,
+    "frq": 2115,
+    "bnc": 3693,
+    "gloss_tokens": [
+      "准予毕业",
+      "分等级",
+      "刻刻度",
+      "已得学位的",
+      "得学位",
+      "授予学位",
+      "毕业",
+      "毕业生",
+      "毕业的",
+      "研究生的",
+      "逐渐变为",
+      "量杯"
+    ],
+    "ambiguity_keys": [
+      "准予毕业",
+      "分等级",
+      "刻刻度",
+      "已得学位的",
+      "得学位",
+      "授予学位",
+      "毕业",
+      "毕业生",
+      "毕业的",
+      "研究生的",
+      "逐渐变为",
+      "量杯"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 毕业生, 量杯\na. 已得学位的, 研究生的, 毕业的\nvi. 毕业, 得学位, 逐渐变为\nvt. 准予...毕业, 授予...学位, 分等级, 刻刻度"
+  },
+  {
+    "word": "unable",
+    "phonetic": "/ʌnˈeɪbl/",
+    "meaning": "a. 不能的；不会的",
+    "level": "CET4",
+    "pos": "a.",
+    "frequency_rank": 2136,
+    "frq": 2136,
+    "bnc": 1474,
+    "gloss_tokens": [
+      "不会的",
+      "不能的",
+      "无能力的",
+      "无资格的",
+      "没有办法的"
+    ],
+    "ambiguity_keys": [
+      "不会的",
+      "不能的",
+      "无能力的",
+      "无资格的",
+      "没有办法的"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "a. 不能的, 不会的\n[法] 无能力的, 无资格的, 没有办法的"
+  },
+  {
+    "word": "perceive",
+    "phonetic": "/pəˈsiːv/",
+    "meaning": "vt. 感觉；认知",
+    "level": "CET4",
+    "pos": "vt.",
+    "frequency_rank": 2165,
+    "frq": 2165,
+    "bnc": 2776,
+    "gloss_tokens": [
+      "意识到",
+      "感觉",
+      "理解",
+      "认知"
+    ],
+    "ambiguity_keys": [
+      "syn_37",
+      "意识到",
+      "感觉",
+      "理解",
+      "认知"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "vt. 感觉, 认知, 理解, 意识到"
+  },
+  {
+    "word": "consist",
+    "phonetic": "/kənˈsist/",
+    "meaning": "v. 组成；存在于",
+    "level": "CET4",
+    "pos": "v.",
+    "frequency_rank": 2190,
+    "frq": 2190,
+    "bnc": 1493,
+    "gloss_tokens": [
+      "一致",
+      "存在于",
+      "组成"
+    ],
+    "ambiguity_keys": [
+      "一致",
+      "存在于",
+      "组成"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "vi. 组成, 存在于, 一致"
+  },
+  {
+    "word": "reply",
+    "phonetic": "/riˈplaɪ/",
+    "meaning": "n. 答复；回答",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 2219,
+    "frq": 2219,
+    "bnc": 1286,
+    "gloss_tokens": [
+      "反响",
+      "回击",
+      "回答",
+      "答复",
+      "答辩"
+    ],
+    "ambiguity_keys": [
+      "syn_43",
+      "反响",
+      "回击",
+      "回答",
+      "答复",
+      "答辩"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 答复, 回答, 答辩\nvi. 答复, 回答, 回击, 反响, 答辩\nvt. 回答\n[计] 答复"
+  },
+  {
+    "word": "racial",
+    "phonetic": "/ˈreɪʃəl/",
+    "meaning": "a. 人种的；种族的",
+    "level": "CET4",
+    "pos": "a.",
+    "frequency_rank": 2243,
+    "frq": 2243,
+    "bnc": 4592,
+    "gloss_tokens": [
+      "人种的",
+      "种族的"
+    ],
+    "ambiguity_keys": [
+      "人种的",
+      "种族的"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "a. 人种的, 种族的\n[医] 种族的"
+  },
+  {
+    "word": "reduction",
+    "phonetic": "/riˈdʌkʃən/",
+    "meaning": "n. 减少；降低",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 2270,
+    "frq": 2270,
+    "bnc": 1554,
+    "gloss_tokens": [
+      "减少",
+      "变化",
+      "缩影",
+      "还原",
+      "降低"
+    ],
+    "ambiguity_keys": [
+      "syn_10",
+      "减少",
+      "变化",
+      "缩影",
+      "还原",
+      "降低"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 减少, 缩影, 变化\n[化] 还原"
+  },
+  {
+    "word": "independence",
+    "phonetic": "/ˌindiˈpendəns/",
+    "meaning": "n. 独立；自立",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 2291,
+    "frq": 2291,
+    "bnc": 2010,
+    "gloss_tokens": [
+      "独立",
+      "独立性",
+      "自主",
+      "自主性",
+      "自立"
+    ],
+    "ambiguity_keys": [
+      "独立",
+      "独立性",
+      "自主",
+      "自主性",
+      "自立"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 独立, 自立, 自主\n[医] 自主性, 独立性"
+  },
+  {
+    "word": "dominate",
+    "phonetic": "/ˈdɒmineɪt/",
+    "meaning": "v. 支配；占优势",
+    "level": "CET4",
+    "pos": "v.",
+    "frequency_rank": 2312,
+    "frq": 2312,
+    "bnc": 2041,
+    "gloss_tokens": [
+      "占优势",
+      "支配"
+    ],
+    "ambiguity_keys": [
+      "占优势",
+      "支配"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "v. 支配, 占优势"
+  },
+  {
+    "word": "impose",
+    "phonetic": "/imˈpəuz/",
+    "meaning": "v. 强加；征收",
+    "level": "CET4",
+    "pos": "v.",
+    "frequency_rank": 2334,
+    "frq": 2334,
+    "bnc": 1517,
+    "gloss_tokens": [
+      "以欺骗",
+      "利用",
+      "强加",
+      "征",
+      "征收",
+      "把强加于",
+      "施加影响",
+      "欺骗"
+    ],
+    "ambiguity_keys": [
+      "以欺骗",
+      "利用",
+      "强加",
+      "征",
+      "征收",
+      "把强加于",
+      "施加影响",
+      "欺骗"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "vt. 征(税), 把...强加于, 以...欺骗\nvi. 利用, 欺骗, 施加影响"
+  },
+  {
+    "word": "arrangement",
+    "phonetic": "/əˈreɪndʒmənt/",
+    "meaning": "n. 排列；整齐",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 2357,
+    "frq": 2357,
+    "bnc": 1092,
+    "gloss_tokens": [
+      "安排",
+      "排列",
+      "整齐"
+    ],
+    "ambiguity_keys": [
+      "安排",
+      "排列",
+      "整齐"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 排列, 整齐, 安排\n[计] 排列"
+  },
+  {
+    "word": "twin",
+    "phonetic": "/twin/",
+    "meaning": "n. 双胞胎；孪生者",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 2376,
+    "frq": 2376,
+    "bnc": 2884,
+    "gloss_tokens": [
+      "一对非常相像的人中的一个",
+      "使成对",
+      "双胞胎",
+      "双胞胎中一人",
+      "双胞胎的",
+      "孪生的",
+      "孪生者",
+      "怀",
+      "成对",
+      "成对的",
+      "生双胞胎"
+    ],
+    "ambiguity_keys": [
+      "一对非常相像的人中的一个",
+      "使成对",
+      "双胞胎",
+      "双胞胎中一人",
+      "双胞胎的",
+      "孪生的",
+      "孪生者",
+      "怀",
+      "成对",
+      "成对的",
+      "生双胞胎"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 双胞胎中一人, 一对非常相像的人(或物)中的一个\na. 双胞胎的, 成对的, 孪生的\nvi. 生双胞胎, 成对\nvt. 怀(双胞胎), 使成对"
+  },
+  {
+    "word": "exception",
+    "phonetic": "/ikˈsepʃən/",
+    "meaning": "n. 例外；除外",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 2401,
+    "frq": 2401,
+    "bnc": 2045,
+    "gloss_tokens": [
+      "例外",
+      "异常",
+      "异议",
+      "除外"
+    ],
+    "ambiguity_keys": [
+      "例外",
+      "异常",
+      "异议",
+      "除外"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 例外, 除外, 异议\n[计] 例外; 异常"
+  },
+  {
+    "word": "fellow",
+    "phonetic": "/ˈfeləu/",
+    "meaning": "n. 同伴；同事",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 2421,
+    "frq": 2421,
+    "bnc": 2954,
+    "gloss_tokens": [
+      "同事",
+      "同事的",
+      "同伴",
+      "同伴的",
+      "同道的",
+      "朋友",
+      "男人"
+    ],
+    "ambiguity_keys": [
+      "同事",
+      "同事的",
+      "同伴",
+      "同伴的",
+      "同道的",
+      "朋友",
+      "男人"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 男人, 朋友, 同事\na. 同伴的, 同事的, 同道的"
+  },
+  {
+    "word": "gentleman",
+    "phonetic": "/ˈdʒentlmən/",
+    "meaning": "n. 绅士；先生",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 2447,
+    "frq": 2447,
+    "bnc": 1455,
+    "gloss_tokens": [
+      "先生",
+      "绅士"
+    ],
+    "ambiguity_keys": [
+      "先生",
+      "绅士"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 绅士, 先生"
+  },
+  {
+    "word": "convention",
+    "phonetic": "/kənˈvenʃən/",
+    "meaning": "n. 大会；协定",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 2472,
+    "frq": 2472,
+    "bnc": 1947,
+    "gloss_tokens": [
+      "协定",
+      "大会",
+      "惯例",
+      "约定"
+    ],
+    "ambiguity_keys": [
+      "协定",
+      "大会",
+      "惯例",
+      "约定"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 大会, 协定, 惯例, 约定\n[计] 约定"
+  },
+  {
+    "word": "apparent",
+    "phonetic": "/əˈpærənt/",
+    "meaning": "a. 清晰可见的；显然的",
+    "level": "CET4",
+    "pos": "a.",
+    "frequency_rank": 2502,
+    "frq": 2502,
+    "bnc": 1770,
+    "gloss_tokens": [
+      "外在的",
+      "显然的",
+      "清晰可见的",
+      "表面上的"
+    ],
+    "ambiguity_keys": [
+      "外在的",
+      "显然的",
+      "清晰可见的",
+      "表面上的"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "a. 清晰可见的, 显然的, 表面上的\n[电] 外在的"
+  },
+  {
+    "word": "tube",
+    "phonetic": "/tjuːb/",
+    "meaning": "n. 管；软管",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 2520,
+    "frq": 2520,
+    "bnc": 2688,
+    "gloss_tokens": [
+      "使通过管子",
+      "把装管",
+      "管",
+      "管子",
+      "软管",
+      "隧道"
+    ],
+    "ambiguity_keys": [
+      "使通过管子",
+      "把装管",
+      "管",
+      "管子",
+      "软管",
+      "隧道"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 管, 软管, 隧道\nvt. 把...装管, 使通过管子\n[计] 管子"
+  },
+  {
+    "word": "substantial",
+    "phonetic": "/səbˈstænʃəl/",
+    "meaning": "a. 大量的；实质的",
+    "level": "CET4",
+    "pos": "a.",
+    "frequency_rank": 2544,
+    "frq": 2544,
+    "bnc": 1536,
+    "gloss_tokens": [
+      "大量的",
+      "实质上的",
+      "实质的",
+      "有内容的",
+      "有实际价值的东西",
+      "物质的",
+      "结实的",
+      "重要材料"
+    ],
+    "ambiguity_keys": [
+      "大量的",
+      "实质上的",
+      "实质的",
+      "有内容的",
+      "有实际价值的东西",
+      "物质的",
+      "结实的",
+      "重要材料"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 重要材料(或事物), 有实际价值的东西\na. 实质上的, 物质的, 有内容的, 结实的"
+  },
+  {
+    "word": "assure",
+    "phonetic": "/əˈʃʊə/",
+    "meaning": "vt. 保证；使确信",
+    "level": "CET4",
+    "pos": "vt.",
+    "frequency_rank": 2571,
+    "frq": 2571,
+    "bnc": 2640,
+    "gloss_tokens": [
+      "使确信",
+      "保证",
+      "保障",
+      "弄清楚",
+      "担保",
+      "确信"
+    ],
+    "ambiguity_keys": [
+      "使确信",
+      "保证",
+      "保障",
+      "弄清楚",
+      "担保",
+      "确信"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "vt. 保证, 使确信, 弄清楚, 担保\n[法] 确信, 保证, 保障"
+  },
+  {
+    "word": "corporation",
+    "phonetic": "/ˌkɔːpəˈreɪʃən/",
+    "meaning": "n. 公司；法人团体",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 2602,
+    "frq": 2602,
+    "bnc": 2025,
+    "gloss_tokens": [
+      "公司",
+      "合作",
+      "法人",
+      "法人团体",
+      "社团"
+    ],
+    "ambiguity_keys": [
+      "公司",
+      "合作",
+      "法人",
+      "法人团体",
+      "社团"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 公司, 合作, 法人团体\n[法] 法人团体, 社团, 法人"
+  },
+  {
+    "word": "vacation",
+    "phonetic": "/veɪˈkeɪʃən/",
+    "meaning": "n. 假期；休假",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 2622,
+    "frq": 2622,
+    "bnc": 9542,
+    "gloss_tokens": [
+      "休假",
+      "休庭期",
+      "假期",
+      "停审期"
+    ],
+    "ambiguity_keys": [
+      "休假",
+      "休庭期",
+      "假期",
+      "停审期"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 假期, 休假\n[法] 假期, 停审期, 休庭期"
+  },
+  {
+    "word": "universal",
+    "phonetic": "/ˌjuːniˈvɜːsl/",
+    "meaning": "a. 全世界的；普遍的",
+    "level": "CET4",
+    "pos": "a.",
+    "frequency_rank": 2642,
+    "frq": 2642,
+    "bnc": 2968,
+    "gloss_tokens": [
+      "一般概念",
+      "全世界的",
+      "宇宙的",
+      "普遍的",
+      "通用的"
+    ],
+    "ambiguity_keys": [
+      "一般概念",
+      "全世界的",
+      "宇宙的",
+      "普遍的",
+      "通用的"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "a. 全世界的, 普遍的, 宇宙的, 通用的\nn. 一般概念"
+  },
+  {
+    "word": "ceremony",
+    "phonetic": "/ˈseriməni/",
+    "meaning": "n. 典礼；仪式",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 2670,
+    "frq": 2670,
+    "bnc": 3313,
+    "gloss_tokens": [
+      "仪式",
+      "典礼",
+      "礼节"
+    ],
+    "ambiguity_keys": [
+      "仪式",
+      "典礼",
+      "礼节"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 典礼, 仪式, 礼节\n[法] 典礼, 仪式"
+  },
+  {
+    "word": "strategic",
+    "phonetic": "/strəˈtiːdʒik/",
+    "meaning": "a. 战略的；战略上的",
+    "level": "CET4",
+    "pos": "a.",
+    "frequency_rank": 2702,
+    "frq": 2702,
+    "bnc": 2723,
+    "gloss_tokens": [
+      "战略上的",
+      "战略的"
+    ],
+    "ambiguity_keys": [
+      "战略上的",
+      "战略的"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "a. 战略的, 战略上的\n[经] 战略的"
+  },
+  {
+    "word": "retain",
+    "phonetic": "/riˈteɪn/",
+    "meaning": "vt. 保持；保有",
+    "level": "CET4",
+    "pos": "vt.",
+    "frequency_rank": 2724,
+    "frq": 2724,
+    "bnc": 1460,
+    "gloss_tokens": [
+      "付定金聘请",
+      "保持",
+      "保有",
+      "保留",
+      "留住",
+      "留存",
+      "记得"
+    ],
+    "ambiguity_keys": [
+      "syn_0",
+      "付定金聘请",
+      "保持",
+      "保有",
+      "保留",
+      "留住",
+      "留存",
+      "记得"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "vt. 保持, 保有, 留住, 记得, 付定金聘请\n[经] 保留, 留存"
+  },
+  {
+    "word": "square",
+    "phonetic": "/skweə/",
+    "meaning": "n. 正方形；街区",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 2747,
+    "frq": 2747,
+    "bnc": 1802,
+    "gloss_tokens": [
+      "一致",
+      "使一致",
+      "使平方自乘",
+      "使成方形",
+      "公正的",
+      "对准地",
+      "平方",
+      "平方的",
+      "广场",
+      "成直角地",
+      "方正的",
+      "正方形",
+      "正方形的",
+      "正直的",
+      "直角尺",
+      "符合",
+      "结清",
+      "结清的",
+      "街区",
+      "调正"
+    ],
+    "ambiguity_keys": [
+      "一致",
+      "使一致",
+      "使平方自乘",
+      "使成方形",
+      "公正的",
+      "对准地",
+      "平方",
+      "平方的",
+      "广场",
+      "成直角地",
+      "方正的",
+      "正方形",
+      "正方形的",
+      "正直的",
+      "直角尺",
+      "符合",
+      "结清",
+      "结清的",
+      "街区",
+      "调正"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 正方形, 街区, 广场, 平方, 直角尺\na. 正方形的, 正直的, 公正的, 平方的, 方正的, 结清的\nadv. 成直角地, 对准地\nvi. 一致, 符合, 结清\nvt. 使成方形, 使平方自乘, 调正, 结清, 使一致"
+  },
+  {
+    "word": "guarantee",
+    "phonetic": "/ˌgærənˈtiː/",
+    "meaning": "n. 保证；担保",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 2774,
+    "frq": 2774,
+    "bnc": 2525,
+    "gloss_tokens": [
+      "保证",
+      "保证书",
+      "抵押品",
+      "担保"
+    ],
+    "ambiguity_keys": [
+      "保证",
+      "保证书",
+      "抵押品",
+      "担保"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 担保, 抵押品, 保证书\nvt. 保证, 担保"
+  },
+  {
+    "word": "mode",
+    "phonetic": "/məud/",
+    "meaning": "n. 方式；模式",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 2793,
+    "frq": 2793,
+    "bnc": 2219,
+    "gloss_tokens": [
+      "外部命令设定各种设备命令",
+      "文体",
+      "方式",
+      "样式",
+      "模式",
+      "模态",
+      "状态",
+      "调式",
+      "风尚"
+    ],
+    "ambiguity_keys": [
+      "外部命令设定各种设备命令",
+      "文体",
+      "方式",
+      "样式",
+      "模式",
+      "模态",
+      "状态",
+      "调式",
+      "风尚"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 模态, 调式, 样式, 文体, 状态, 方式, 风尚\n[计] 方式; DOS外部命令:设定各种设备命令"
+  },
+  {
+    "word": "bake",
+    "phonetic": "/beɪk/",
+    "meaning": "vt. 烘焙；烤",
+    "level": "CET4",
+    "pos": "vt.",
+    "frequency_rank": 2810,
+    "frq": 2810,
+    "bnc": 6122,
+    "gloss_tokens": [
+      "烘焙",
+      "烤",
+      "烤面包"
+    ],
+    "ambiguity_keys": [
+      "烘焙",
+      "烤",
+      "烤面包"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "vt. 烘焙, 烤\nvi. 烤面包\nn. 烘焙, 烤"
+  },
+  {
+    "word": "treaty",
+    "phonetic": "/ˈtriːti/",
+    "meaning": "n. 条约；协定",
+    "level": "CET4",
+    "pos": "n.",
+    "frequency_rank": 2836,
+    "frq": 2836,
+    "bnc": 1659,
+    "gloss_tokens": [
+      "协商",
+      "协定",
+      "协议",
+      "条约",
+      "谈判"
+    ],
+    "ambiguity_keys": [
+      "协商",
+      "协定",
+      "协议",
+      "条约",
+      "谈判"
+    ],
+    "source": "ECDICT cet4 tag",
+    "source_translation": "n. 条约, 谈判\n[经] 协议, 协定, 协商"
+  }
+]

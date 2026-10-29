@@ -1,0 +1,34 @@
+{
+  "family": "墨金藏书",
+  "source": "Original code-authored SVG and Godot vector drawing for WordRogue UI pass",
+  "date": "2026-10-16",
+  "license": "Project-owned original geometry; no external image downloads",
+  "icons": [
+    "arrow.svg",
+    "attack.svg",
+    "back.svg",
+    "book.svg",
+    "close.svg",
+    "confirm.svg",
+    "event.svg",
+    "floor.svg",
+    "life.svg",
+    "mana.svg",
+    "music.svg",
+    "pause.svg",
+    "reward.svg",
+    "seal.svg",
+    "settings.svg",
+    "shield.svg",
+    "sound.svg",
+    "warning.svg",
+    "word.svg"
+  ],
+  "runtime_components": [
+    "archive_panel.gd",
+    "archive_button.gd",
+    "archive_emblem.gd"
+  ],
+  "fonts": "Existing bundled Noto Sans and system serif with bundled fallback; no new font distribution",
+  "budget": "32x32 SVG; no raster texture family or full-screen post processing"
+}

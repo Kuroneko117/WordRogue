@@ -1,0 +1,18 @@
+{
+  "source_url": "https://raw.githubusercontent.com/skywind3000/ECDICT/master/ecdict.csv",
+  "retrieved": "2026-10-09",
+  "source_sha256": "1a6947e04785db63613a92e14903cdae7954f7e84860b10e68e5c7cbb3f9c3cf",
+  "output_sha256": "66cd1dedcd6903be04c85a7c82c904bd4c6471de8118a85ac715b7ce47d3e600",
+  "license": "MIT, Copyright (c) 2025 Linwei",
+  "selection": "cet4 tag; single lemmas; readable first-POS gloss; positive frq ascending, BNC fallback after frq; no random/alphabetical truncation",
+  "eligible": 3681,
+  "selected": 1500,
+  "rejected": {
+    "inflected_form": 120,
+    "not_single_lemma": 12,
+    "no_frequency": 4,
+    "unsuitable_quiz_gloss": 26,
+    "empty_or_markup": 6
+  },
+  "sample_count": 100
+}

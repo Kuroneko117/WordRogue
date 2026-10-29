@@ -1,0 +1,1365 @@
+{
+  "enemies": {
+    "ink_wraith": {
+      "name": "INK WRAITH",
+      "subtitle": "墨影",
+      "hp": 50,
+      "atk": 10,
+      "kind": "normal",
+      "threshold": 3,
+      "ultimate": "ink_surge",
+      "art": "ink_wraith"
+    },
+    "dust_sentinel": {
+      "name": "DUST SENTINEL",
+      "subtitle": "尘页守卫",
+      "hp": 50,
+      "atk": 10,
+      "kind": "normal",
+      "threshold": 3,
+      "ultimate": "dust_quake",
+      "art": "ink_wraith"
+    },
+    "paper_golem": {
+      "name": "PAPER GOLEM",
+      "subtitle": "纸页傀儡",
+      "hp": 60,
+      "atk": 10,
+      "kind": "normal",
+      "threshold": 3,
+      "ultimate": "page_quake",
+      "art": ""
+    },
+    "grimoire_mimic": {
+      "name": "GRIMOIRE MIMIC",
+      "subtitle": "拟态魔典",
+      "hp": 52,
+      "atk": 10,
+      "kind": "normal",
+      "threshold": 3,
+      "ultimate": "mimic_devour",
+      "art": ""
+    },
+    "lantern_wisp": {
+      "name": "LANTERN WISP",
+      "subtitle": "幽灯之灵",
+      "hp": 44,
+      "atk": 9,
+      "kind": "normal",
+      "threshold": 2,
+      "ultimate": "wisp_flash",
+      "art": ""
+    },
+    "marginalia": {
+      "name": "THE MARGINALIA",
+      "subtitle": "边注之灵",
+      "hp": 70,
+      "atk": 12,
+      "kind": "elite",
+      "threshold": 3,
+      "ultimate": "margin_storm",
+      "art": "marginalia"
+    },
+    "silent_archivist": {
+      "name": "SILENT ARCHIVIST",
+      "subtitle": "沉默档案官",
+      "hp": 75,
+      "atk": 12,
+      "kind": "elite",
+      "threshold": 3,
+      "ultimate": "final_volume",
+      "art": ""
+    },
+    "librarian": {
+      "name": "THE LIBRARIAN",
+      "subtitle": "遗忘图书管理员",
+      "hp": 100,
+      "atk": 15,
+      "kind": "boss",
+      "threshold": 3,
+      "ultimate": "final_judgment",
+      "art": "librarian"
+    }
+  },
+  "attacks": {
+    "ink_bolt": {
+      "name": "墨弹",
+      "multiplier": 1.0,
+      "strong": false,
+      "effect": "",
+      "release": "ink_launch",
+      "impact": "ink_impact"
+    },
+    "shadow_lunge": {
+      "name": "暗影扑击",
+      "multiplier": 1.3,
+      "strong": true,
+      "effect": "",
+      "release": "shadow_lunge",
+      "impact": "heavy_impact"
+    },
+    "paper_slash": {
+      "name": "纸刃",
+      "multiplier": 1.0,
+      "strong": false,
+      "effect": "",
+      "release": "paper_slash",
+      "impact": "paper_impact"
+    },
+    "ink_mark": {
+      "name": "墨蚀批注",
+      "multiplier": 0.7,
+      "strong": false,
+      "effect": "ink",
+      "release": "curse_cast",
+      "impact": "curse_impact"
+    },
+    "torn_page": {
+      "name": "撕页重击",
+      "multiplier": 1.5,
+      "strong": true,
+      "effect": "",
+      "release": "torn_page",
+      "impact": "heavy_impact"
+    },
+    "arcane_tome": {
+      "name": "古书冲击",
+      "multiplier": 1.0,
+      "strong": false,
+      "effect": "",
+      "release": "tome_cast",
+      "impact": "tome_impact"
+    },
+    "oblivion_mark": {
+      "name": "遗忘烙印",
+      "multiplier": 0.7,
+      "strong": false,
+      "effect": "ink",
+      "release": "oblivion_cast",
+      "impact": "curse_impact"
+    },
+    "judgment": {
+      "name": "知识审判",
+      "multiplier": 1.6,
+      "strong": true,
+      "effect": "",
+      "release": "judgment_cast",
+      "impact": "judgment_impact"
+    },
+    "sealed_pages": {
+      "name": "封印书页",
+      "multiplier": 0.6,
+      "strong": false,
+      "effect": "seal",
+      "release": "seal_cast",
+      "impact": "seal_impact"
+    },
+    "paper_fist": {
+      "name": "纸拳",
+      "multiplier": 1.0,
+      "strong": false,
+      "effect": "",
+      "release": "paper_slash",
+      "impact": "paper_impact"
+    },
+    "binding_ram": {
+      "name": "装订冲撞",
+      "multiplier": 1.25,
+      "strong": true,
+      "effect": "",
+      "release": "shadow_lunge",
+      "impact": "heavy_impact"
+    },
+    "mimic_bite": {
+      "name": "魔典撕咬",
+      "multiplier": 1.0,
+      "strong": false,
+      "effect": "",
+      "release": "tome_cast",
+      "impact": "heavy_impact"
+    },
+    "arcane_theft": {
+      "name": "奥术窃取",
+      "multiplier": 0.7,
+      "strong": false,
+      "effect": "seal",
+      "release": "seal_cast",
+      "impact": "seal_impact"
+    },
+    "wisp_spark": {
+      "name": "幽灯火花",
+      "multiplier": 0.9,
+      "strong": false,
+      "effect": "",
+      "release": "ink_launch",
+      "impact": "ink_impact"
+    },
+    "spirit_dash": {
+      "name": "灵火突袭",
+      "multiplier": 1.1,
+      "strong": true,
+      "effect": "",
+      "release": "shadow_lunge",
+      "impact": "paper_impact"
+    },
+    "archive_chain": {
+      "name": "档案锁链",
+      "multiplier": 1.0,
+      "strong": false,
+      "effect": "",
+      "release": "seal_cast",
+      "impact": "seal_impact"
+    },
+    "silent_seal": {
+      "name": "沉默封印",
+      "multiplier": 0.7,
+      "strong": false,
+      "effect": "seal",
+      "release": "seal_cast",
+      "impact": "seal_impact"
+    },
+    "archive_judgment": {
+      "name": "档案审判",
+      "multiplier": 1.45,
+      "strong": true,
+      "effect": "",
+      "release": "judgment_cast",
+      "impact": "judgment_impact"
+    },
+    "page_quake": {
+      "name": "裂页震击",
+      "multiplier": 1.4,
+      "strong": true,
+      "effect": "",
+      "release": "torn_page",
+      "impact": "heavy_impact"
+    },
+    "mimic_devour": {
+      "name": "魔典吞噬",
+      "multiplier": 1.2,
+      "strong": true,
+      "effect": "",
+      "release": "tome_cast",
+      "impact": "heavy_impact"
+    },
+    "wisp_flash": {
+      "name": "幽光爆闪",
+      "multiplier": 1.15,
+      "strong": true,
+      "effect": "",
+      "release": "curse_cast",
+      "impact": "curse_impact"
+    },
+    "final_volume": {
+      "name": "最终封卷",
+      "multiplier": 1.5,
+      "strong": true,
+      "effect": "seal",
+      "release": "seal_cast",
+      "impact": "heavy_impact"
+    },
+    "ink_surge": {
+      "name": "墨潮爆涌",
+      "multiplier": 1.4,
+      "strong": true,
+      "effect": "",
+      "release": "ink_launch",
+      "impact": "heavy_impact"
+    },
+    "dust_quake": {
+      "name": "尘页震荡",
+      "multiplier": 1.4,
+      "strong": true,
+      "effect": "",
+      "release": "torn_page",
+      "impact": "heavy_impact"
+    },
+    "margin_storm": {
+      "name": "批注风暴",
+      "multiplier": 1.5,
+      "strong": true,
+      "effect": "ink",
+      "release": "curse_cast",
+      "impact": "heavy_impact"
+    },
+    "final_judgment": {
+      "name": "终末审判",
+      "multiplier": 1.6,
+      "strong": true,
+      "effect": "seal",
+      "release": "judgment_cast",
+      "impact": "judgment_impact"
+    }
+  },
+  "attack_vfx": {
+    "ink_bolt": [
+      "ink",
+      "shoot",
+      "ink_orb",
+      "splash",
+      "ink_cast",
+      "ink_splash"
+    ],
+    "shadow_lunge": [
+      "ink",
+      "dash",
+      "trail",
+      "claw",
+      "ink_dash",
+      "ink_claw_hit"
+    ],
+    "ink_surge": [
+      "ink",
+      "shoot",
+      "ink_wave",
+      "splash",
+      "ink_surge_cast",
+      "ink_surge_hit"
+    ],
+    "paper_fist": [
+      "paper",
+      "punch",
+      "fist",
+      "paper_hit",
+      "paper_fist_swing",
+      "paper_thud"
+    ],
+    "binding_ram": [
+      "paper",
+      "dash",
+      "trail",
+      "paper_hit",
+      "binding_ram_cast",
+      "paper_heavy_hit"
+    ],
+    "page_quake": [
+      "paper",
+      "shoot",
+      "paper_wave",
+      "paper_hit",
+      "page_charge",
+      "page_quake_hit"
+    ],
+    "mimic_bite": [
+      "mimic",
+      "bite",
+      "trail",
+      "mouth",
+      "mimic_open",
+      "mimic_bite_hit"
+    ],
+    "arcane_theft": [
+      "mimic",
+      "siphon",
+      "siphon",
+      "seal",
+      "mimic_siphon",
+      "mana_drain_hit"
+    ],
+    "mimic_devour": [
+      "mimic",
+      "sigil",
+      "mouth",
+      "mouth",
+      "mimic_devour_cast",
+      "mimic_devour_hit"
+    ],
+    "wisp_spark": [
+      "wisp",
+      "shoot",
+      "flame",
+      "fire_hit",
+      "wisp_cast",
+      "wisp_spark_hit"
+    ],
+    "spirit_dash": [
+      "wisp",
+      "dash",
+      "trail",
+      "fire_hit",
+      "wisp_dash",
+      "wisp_flare_hit"
+    ],
+    "wisp_flash": [
+      "wisp",
+      "sigil",
+      "flare",
+      "fire_hit",
+      "wisp_charge",
+      "wisp_flash_hit"
+    ],
+    "paper_slash": [
+      "margin",
+      "shoot",
+      "paper_blade",
+      "paper_hit",
+      "margin_page_cast",
+      "margin_page_hit"
+    ],
+    "ink_mark": [
+      "margin",
+      "sigil",
+      "curse",
+      "seal",
+      "margin_mark_cast",
+      "margin_mark_hit"
+    ],
+    "torn_page": [
+      "margin",
+      "shoot",
+      "paper_wave",
+      "paper_hit",
+      "margin_torn_cast",
+      "margin_torn_hit"
+    ],
+    "margin_storm": [
+      "margin",
+      "sigil",
+      "paper_storm",
+      "paper_hit",
+      "margin_storm_cast",
+      "margin_storm_hit"
+    ],
+    "archive_chain": [
+      "archive",
+      "line",
+      "chain",
+      "seal",
+      "archive_chain_cast",
+      "chain_hit"
+    ],
+    "silent_seal": [
+      "archive",
+      "sigil",
+      "seal",
+      "seal",
+      "archive_seal_cast",
+      "archive_seal_hit"
+    ],
+    "archive_judgment": [
+      "archive",
+      "sigil",
+      "judgment",
+      "judgment",
+      "archive_judgment_cast",
+      "archive_judgment_hit"
+    ],
+    "final_volume": [
+      "archive",
+      "sigil",
+      "volume",
+      "seal",
+      "archive_volume_cast",
+      "archive_volume_hit"
+    ],
+    "arcane_tome": [
+      "boss",
+      "shoot",
+      "book",
+      "paper_hit",
+      "boss_tome_cast",
+      "boss_tome_hit"
+    ],
+    "oblivion_mark": [
+      "boss",
+      "sigil",
+      "curse",
+      "seal",
+      "boss_oblivion_cast",
+      "boss_mark_hit"
+    ],
+    "judgment": [
+      "boss",
+      "sigil",
+      "judgment",
+      "judgment",
+      "boss_judgment_cast",
+      "boss_judgment_hit"
+    ],
+    "sealed_pages": [
+      "boss",
+      "line",
+      "chain",
+      "seal",
+      "boss_seal_cast",
+      "boss_seal_hit"
+    ],
+    "final_judgment": [
+      "boss",
+      "sigil",
+      "judgment",
+      "judgment",
+      "boss_final_cast",
+      "boss_final_hit"
+    ],
+    "dust_quake": [
+      "dust",
+      "shoot",
+      "paper_wave",
+      "paper_hit",
+      "dust_charge",
+      "dust_quake_hit"
+    ]
+  },
+  "base_events": 23,
+  "legacy_events": 17,
+  "material_events": 55,
+  "all_events": 95,
+  "loaded_events": 95,
+  "active_sfx_files": 37,
+  "sfx": [
+    {
+      "file": "aegis_activate.wav",
+      "duration": 0.244,
+      "bound": true,
+      "hash": "a202281ed2e89a06321161e9cb0233ee1d0ffd09b531d37955d8b044945fbfeb"
+    },
+    {
+      "file": "arcane_release.wav",
+      "duration": 0.116,
+      "bound": true,
+      "hash": "383ca04780a93ce95f7c5d098f93e3310585322566654992aba38c2dc7e1e64a"
+    },
+    {
+      "file": "archive_chain_texture.wav",
+      "duration": 0.48,
+      "bound": true,
+      "hash": "861f28fe7056fbbe8e93a24f39488f1628225db548e6b2921aaecc10f0d3f3f3"
+    },
+    {
+      "file": "archive_judgment_texture.wav",
+      "duration": 0.6,
+      "bound": true,
+      "hash": "fc57ff64088dd6ec067308f8f86af505cf7d37e22a3f7867e341d910b36d825a"
+    },
+    {
+      "file": "archive_seal_texture.wav",
+      "duration": 0.5,
+      "bound": true,
+      "hash": "b29259a8d116b255c8a045440d589c3a1039a2c824d75c4cd5393def291f6c65"
+    },
+    {
+      "file": "boss_impact_texture.wav",
+      "duration": 0.6,
+      "bound": true,
+      "hash": "fa41bad84bbb0a9e5e17c1049dc63d416652172c01c3770d05301f1bf97f5936"
+    },
+    {
+      "file": "boss_intro.wav",
+      "duration": 1.2,
+      "bound": true,
+      "hash": "d82e77332b58c18759c6666ee314b0a5bd06e833e398c77468e58708b0c6fbf7"
+    },
+    {
+      "file": "boss_tome_texture.wav",
+      "duration": 0.5,
+      "bound": true,
+      "hash": "09f84a1a5700b797217c19405deb012b9b1459314ee4adcb2324fc39d19d4ca2"
+    },
+    {
+      "file": "burst_impact.wav",
+      "duration": 0.35,
+      "bound": true,
+      "hash": "2fe5ae9ce77692d78f2427fc3b7dd87fdab14b3206b1bd4df5f14188a9770e89"
+    },
+    {
+      "file": "combo.wav",
+      "duration": 0.65,
+      "bound": true,
+      "hash": "b16d8e62e5786eda998416b67ddd28bccd3b0dd18a7565f4a8ac713498cedce9"
+    },
+    {
+      "file": "correct.wav",
+      "duration": 0.29,
+      "bound": true,
+      "hash": "b7d635dc669ecf257b0ce14b6a51e5865ebca1fa70908c38c1763a982ab937b8"
+    },
+    {
+      "file": "defeat.wav",
+      "duration": 0.796,
+      "bound": true,
+      "hash": "20c2ae233134565d64f4859bf84979fc04712a6801415acd7be500525c7a805e"
+    },
+    {
+      "file": "enemy_cast.wav",
+      "duration": 0.178,
+      "bound": true,
+      "hash": "8c93cb943bd22ca65522eb8463220e4fb7c52ece3d005d718e668e6288ed06ab"
+    },
+    {
+      "file": "enemy_death.wav",
+      "duration": 0.85,
+      "bound": true,
+      "hash": "affb53d914cddcb086383a3eaf176afd5894071a263cadf3e2e60e3fa24b91b8"
+    },
+    {
+      "file": "enemy_hurt.wav",
+      "duration": 0.28,
+      "bound": true,
+      "hash": "ce418b93855eadeddbc0c2604dc82fcc19fe1811947379cd6927b734aa3b0187"
+    },
+    {
+      "file": "ink_splash_texture.wav",
+      "duration": 0.32,
+      "bound": true,
+      "hash": "b1ea0f9e6248cf7ea2f4e50a5e9318bc660e881ad3f9a3891e66c0fd04a16ca0"
+    },
+    {
+      "file": "ink_spray.wav",
+      "duration": 0.42,
+      "bound": true,
+      "hash": "79158bba27f344212cf81e083aa39735ac80075ec5c58aefb99e508e16b74e57"
+    },
+    {
+      "file": "ink_surge_texture.wav",
+      "duration": 0.65,
+      "bound": true,
+      "hash": "b2095f5ae2c83d6fcb128596c58758c1eff501633ef0c274828c66b6881eec61"
+    },
+    {
+      "file": "magic_hit.wav",
+      "duration": 0.4,
+      "bound": false,
+      "hash": "599b411f91ce9a8b478b37e8c7b9c1527f2bc1d44c4b409c3af47517cd0faaa8"
+    },
+    {
+      "file": "memory_burst.wav",
+      "duration": 0.104,
+      "bound": true,
+      "hash": "3f6a853c80c486d585846a068af278e48ccaa4bae00c5c1be8015ab7b4765832"
+    },
+    {
+      "file": "memory_charge.wav",
+      "duration": 0.28,
+      "bound": true,
+      "hash": "60e9b7a4522cd1e1451205c4dcc80d5b642e7386878398876d798e663e7da588"
+    },
+    {
+      "file": "mimic_bite_texture.wav",
+      "duration": 0.55,
+      "bound": true,
+      "hash": "3a4fa559835e72c1a7b20035575af78068d7fd4aabffc49c57a70326d3dcce5a"
+    },
+    {
+      "file": "mimic_devour_texture.wav",
+      "duration": 0.65,
+      "bound": true,
+      "hash": "32fbc19186343828989dc961d9b46860c9130e4201367f00ae8c52b032faa2ce"
+    },
+    {
+      "file": "mimic_drain.wav",
+      "duration": 0.55,
+      "bound": true,
+      "hash": "546556947e87803175a15b98e9f1dae6e5cda51380f76796814811bdfad80bee"
+    },
+    {
+      "file": "mimic_open_texture.wav",
+      "duration": 0.32,
+      "bound": true,
+      "hash": "10fd97dce51afd4fdf6875279fb46633189c87c0932961af0b32ec3440a39a9a"
+    },
+    {
+      "file": "paper_heavy.wav",
+      "duration": 0.42,
+      "bound": true,
+      "hash": "32d4881fb07e95c161535a6a7b02a7686530a975faebd77660502e937bee8074"
+    },
+    {
+      "file": "paper_rustle.wav",
+      "duration": 0.4,
+      "bound": true,
+      "hash": "cb6794f32cbfeaa84cde90ba5b29255a5fb0296461d4795f48900ec378a5dada"
+    },
+    {
+      "file": "paper_strike.wav",
+      "duration": 0.32,
+      "bound": true,
+      "hash": "78a8b5f5aac0645c73b62c58b4baa5c628945518b0ddfff5afe9ca9460106e0a"
+    },
+    {
+      "file": "player_cast.wav",
+      "duration": 0.65,
+      "bound": false,
+      "hash": "f25b87b01e3163fd6239dc5e02f9ca72f1a8d418328fc64e17f970cb0788d866"
+    },
+    {
+      "file": "player_hurt.wav",
+      "duration": 0.277,
+      "bound": true,
+      "hash": "00b9e56c1e36df6a32cb832b2ed02880cfd1b74493c78519e3d5b8188a468313"
+    },
+    {
+      "file": "projectile_impact.wav",
+      "duration": 0.18,
+      "bound": true,
+      "hash": "8eae463c8665a49e11898c07049b5064bd52715c6e050cb1be970e275a330f47"
+    },
+    {
+      "file": "reward_select.wav",
+      "duration": 0.322,
+      "bound": true,
+      "hash": "eb2f88968b7f4b7595ab30556059bbbf49d31e829d187c5069851236ccb7a52b"
+    },
+    {
+      "file": "shield_hit.wav",
+      "duration": 0.22,
+      "bound": true,
+      "hash": "6f380d8143cc85888208b9e27975226f7a5e5e23040197e1f91b2b6640689fe2"
+    },
+    {
+      "file": "ui_click.wav",
+      "duration": 0.1,
+      "bound": true,
+      "hash": "1e81c1289858ea1d46b65dc4db14e955969856d1749dd78b08d6674d7b923544"
+    },
+    {
+      "file": "victory.wav",
+      "duration": 0.489,
+      "bound": true,
+      "hash": "a44ab974a40a188a308e69b40a8faf240f98af1c1e6f8d5f01ddebbd92f2245b"
+    },
+    {
+      "file": "wisp_fire.wav",
+      "duration": 0.42,
+      "bound": true,
+      "hash": "1d07650a4b645731ac90cd1ea4c90d4fab612c7b3349c9f1e43796a479f2275f"
+    },
+    {
+      "file": "wisp_flare.wav",
+      "duration": 0.65,
+      "bound": true,
+      "hash": "be9247b40c15fa2a9c083ff4bb8f8c12346a9b883cdabab7073e4d7005df9bfa"
+    },
+    {
+      "file": "wisp_shift.wav",
+      "duration": 0.38,
+      "bound": true,
+      "hash": "43dd0dc0455022ec58c0dab7bc68459af6eb921dccfbfc8ac6502b2d7e2b7ce5"
+    },
+    {
+      "file": "wrong.wav",
+      "duration": 0.164,
+      "bound": true,
+      "hash": "c238142d979ecbd046d746b0a3c96450215cc8c12f996315dff03930534bd5bc"
+    }
+  ],
+  "physical_sfx_unique_hashes": 39,
+  "bgm": [
+    "boss_battle.ogg",
+    "elite_battle.ogg",
+    "event_special.ogg",
+    "memory_rest.ogg",
+    "normal_battle.ogg",
+    "title_map.ogg"
+  ],
+  "rewards": [
+    {
+      "id": "blade",
+      "name": "WORD BLADE",
+      "description": "基础攻击 +3"
+    },
+    {
+      "id": "crystal",
+      "name": "MEMORY CRYSTAL",
+      "description": "每达成连续答对 3 次的里程碑，恢复 3 HP"
+    },
+    {
+      "id": "flame",
+      "name": "COMBO FLAME",
+      "description": "Combo ≥ 5 时，最终伤害 +30%"
+    },
+    {
+      "id": "shield",
+      "name": "SCHOLAR SHIELD",
+      "description": "每场战斗首次答错时免疫伤害"
+    },
+    {
+      "id": "tome",
+      "name": "BEGINNER'S TOME",
+      "description": "答对 Mastery < 30 的词，额外造成 5 伤害"
+    },
+    {
+      "id": "quill",
+      "name": "HEALING QUILL",
+      "description": "每场战斗结束恢复 10 HP；获取时立即生效"
+    },
+    {
+      "id": "mana_ring",
+      "name": "聚能指环",
+      "description": "本局法力上限 +1，让爆发与守护有更大余地。",
+      "tag": "法力",
+      "icon": "◎"
+    },
+    {
+      "id": "spring",
+      "name": "法力泉瓶",
+      "description": "每场起始法力改为 2，可直接使用记忆爆发。",
+      "tag": "法力",
+      "icon": "⌁"
+    },
+    {
+      "id": "echo",
+      "name": "余响铭文",
+      "description": "奥术飞弹在正常伤害之外，额外造成 3 伤害。",
+      "tag": "进攻",
+      "icon": "✦"
+    },
+    {
+      "id": "aegis_edge",
+      "name": "符文护页",
+      "description": "守护答对获得 10 护盾；本局护盾上限提高到 20。",
+      "tag": "防御",
+      "icon": "◇"
+    },
+    {
+      "id": "bulwark",
+      "name": "青金壁垒",
+      "description": "每场战斗开始获得 6 护盾，不跨战斗累积。",
+      "tag": "防御",
+      "icon": "▱"
+    },
+    {
+      "id": "thorns",
+      "name": "反击墨镜",
+      "description": "护盾实际吸收伤害且你存活时，反伤敌人 4 点。",
+      "tag": "防御",
+      "icon": "◈"
+    },
+    {
+      "id": "resonance",
+      "name": "共鸣书签",
+      "description": "记忆爆发针对本局旧错词的追加伤害由 5 提高到 10。",
+      "tag": "记忆",
+      "icon": "▤"
+    },
+    {
+      "id": "focus",
+      "name": "专注透镜",
+      "description": "连续答对达到 3 次后，正常攻击伤害 +2。",
+      "tag": "进攻",
+      "icon": "◉"
+    },
+    {
+      "id": "lifebond",
+      "name": "生命书签",
+      "description": "本局最大生命 +15，并立即恢复 15 生命。",
+      "tag": "续航",
+      "icon": "♡"
+    },
+    {
+      "id": "renewal",
+      "name": "复苏墨水",
+      "description": "每场首次达到 5 连击时恢复 8 生命，只触发一次。",
+      "tag": "续航",
+      "icon": "✧"
+    },
+    {
+      "id": "restoration",
+      "name": "温习手稿",
+      "description": "回忆书房每题答对的恢复量由 5 提高到 7。",
+      "tag": "记忆",
+      "icon": "▤"
+    },
+    {
+      "id": "opening",
+      "name": "战前筹谋",
+      "description": "每场首次答对的正常伤害 +6，错误不会消耗这个机会。",
+      "tag": "进攻",
+      "icon": "⚑"
+    }
+  ],
+  "supplies": [
+    {
+      "id": "recover",
+      "name": "生命药剂",
+      "description": "立即恢复 20 生命，不超过上限。可重复获得。",
+      "tag": "补给",
+      "icon": "✚",
+      "repeatable": true
+    },
+    {
+      "id": "ward",
+      "name": "应急护符",
+      "description": "下一场额外获得 8 起始护盾，受护盾上限约束。可重复获得。",
+      "tag": "补给",
+      "icon": "◇",
+      "repeatable": true
+    },
+    {
+      "id": "insight",
+      "name": "灵感墨滴",
+      "description": "下一场首次答对的正常伤害额外 +8，可累积至 16。可重复获得。",
+      "tag": "补给",
+      "icon": "✦",
+      "repeatable": true
+    }
+  ],
+  "words": {
+    "small": 120,
+    "large": 1500,
+    "intersection": 92,
+    "union": 1528
+  },
+  "snapshot_date": "2026-10-10",
+  "project": "D:\\项目\\1",
+  "version": "V1.8",
+  "v18_sources": {
+    "date": "2026-10-10",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "music": [
+      {
+        "path": "assets/audio/bgm/title_map.ogg",
+        "title": "Iremos Forest Theme Loop",
+        "author": "beardalaxy",
+        "page": "https://opengameart.org/content/iremos-forest-theme-loop",
+        "download": "https://opengameart.org/sites/default/files/iremos_forest_in_game.ogg",
+        "license": "CC0-1.0",
+        "sha256": "52103c8ef155224a9faeb3a834efe589a27ec0eeb929fdfa855e23d365f8fc01",
+        "duration": 25.6116104125977,
+        "playback_gain_db": -2.19887575106291,
+        "edits": "original OGG bytes; loop enabled at runtime; resource attenuation only"
+      },
+      {
+        "path": "assets/audio/bgm/elite_battle.ogg",
+        "title": "Cynic Battle Loop",
+        "author": "Alex Smith / The Cynic Project; loop edit by Ferk",
+        "page": "https://opengameart.org/content/cynic-battle-loop",
+        "download": "https://opengameart.org/sites/default/files/cynicbattleloop_0.ogg",
+        "license": "CC0-1.0",
+        "sha256": "39195451e23c929dce5bed687b0d78454c32eb574b06713ea3d079b6b37b6a86",
+        "duration": 92.079833984375,
+        "playback_gain_db": -4.77252695419499,
+        "edits": "original OGG bytes; loop enabled at runtime; resource attenuation only"
+      },
+      {
+        "path": "assets/audio/bgm/memory_rest.ogg",
+        "title": "Forget Me Not (looped)",
+        "author": "Kistol",
+        "page": "https://opengameart.org/content/forget-me-not",
+        "download": "https://opengameart.org/sites/default/files/forget_me_not_in_f_major_looped.ogg",
+        "license": "CC0-1.0",
+        "sha256": "2b9b9fc512c34d52b999ed1fd7e01f960f830f3defc5d2241f6e02f8be81ef77",
+        "duration": 124.099998474121,
+        "playback_gain_db": 0.0,
+        "edits": "original OGG bytes; loop enabled at runtime; resource attenuation only"
+      },
+      {
+        "path": "assets/audio/bgm/event_special.ogg",
+        "title": "Unsolved Investigation",
+        "author": "isaiah658",
+        "page": "https://opengameart.org/content/unsolved-investigation",
+        "download": "https://opengameart.org/sites/default/files/Unsolved-Investigation-isaiah658_0.ogg",
+        "license": "CC0-1.0",
+        "sha256": "2877e423ff90cb99b3082840e66cf79d69a809708466c6f27c750c0e1ce2a912",
+        "duration": 48.0,
+        "playback_gain_db": 0.0,
+        "edits": "original OGG bytes; loop enabled at runtime; resource attenuation only"
+      }
+    ],
+    "sfx": [
+      {
+        "duration": 0.48,
+        "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+        "file": "archive_chain_texture.wav",
+        "gain": 0.41225595304453,
+        "license": "CC0-1.0",
+        "source_peak": 0.921757459640503,
+        "source_rms": 0.118874615604001,
+        "sources": [
+          {
+            "file": "res://.local_test/v13_audio_sources/rpg/chain_01.ogg",
+            "author": "rubberduck",
+            "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+            "sha256": "d376caf0f61384b1d2e0b447f64f06be56d0ee0622ba70dd01cfdd78b3a10687",
+            "license": "CC0-1.0"
+          }
+        ],
+        "path": "assets/audio/sfx/archive_chain_texture.wav",
+        "sha256": "861f28fe7056fbbe8e93a24f39488f1628225db548e6b2921aaecc10f0d3f3f3"
+      },
+      {
+        "duration": 0.6,
+        "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+        "file": "archive_judgment_texture.wav",
+        "gain": 0.373621371847655,
+        "license": "CC0-1.0",
+        "source_peak": 1.01707243919373,
+        "source_rms": 0.120880891833372,
+        "sources": [
+          {
+            "file": "res://.local_test/v13_audio_sources/rpg/spell_01.ogg",
+            "author": "rubberduck",
+            "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+            "sha256": "09821a53c418c5eeeac4fa25bada9d245e822fed302eeeae9ae4151522a45ae5",
+            "license": "CC0-1.0"
+          },
+          {
+            "file": "res://.local_test/v13_audio_sources/rpg/item_gem_04.ogg",
+            "author": "rubberduck",
+            "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+            "sha256": "e12eb95d0458675c2692831454ed09c7a680de966e7c705ce67a7e12560aa73a",
+            "license": "CC0-1.0"
+          }
+        ],
+        "path": "assets/audio/sfx/archive_judgment_texture.wav",
+        "sha256": "fc57ff64088dd6ec067308f8f86af505cf7d37e22a3f7867e341d910b36d825a"
+      },
+      {
+        "duration": 0.5,
+        "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+        "file": "archive_seal_texture.wav",
+        "gain": 0.406208655673137,
+        "license": "CC0-1.0",
+        "source_peak": 0.935479819774628,
+        "source_rms": 0.09665322322495,
+        "sources": [
+          {
+            "file": "res://.local_test/v13_audio_sources/rpg/spell_02.ogg",
+            "author": "rubberduck",
+            "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+            "sha256": "bf9c48b76921e56aa266172d969a2c08215d6ce0ffae7c3584f23fa05d3f8bd4",
+            "license": "CC0-1.0"
+          },
+          {
+            "file": "res://.local_test/v13_audio_sources/rpg/lock_03.ogg",
+            "author": "rubberduck",
+            "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+            "sha256": "5fdb74f95dc42dfd06eb89c548c2ab6a3c008a3c9ce3badcdb0e51409e0a4f44",
+            "license": "CC0-1.0"
+          }
+        ],
+        "path": "assets/audio/sfx/archive_seal_texture.wav",
+        "sha256": "b29259a8d116b255c8a045440d589c3a1039a2c824d75c4cd5393def291f6c65"
+      },
+      {
+        "duration": 0.6,
+        "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+        "file": "boss_impact_texture.wav",
+        "gain": 0.383426154371055,
+        "license": "CC0-1.0",
+        "source_peak": 0.991064369678497,
+        "source_rms": 0.0532239882452236,
+        "sources": [
+          {
+            "file": "res://.local_test/v13_audio_sources/rpg/stones_04.ogg",
+            "author": "rubberduck",
+            "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+            "sha256": "66f1cef820f66d86414d481b37a48a7b7ea11f4a5d7358372ebcfb506af0e652",
+            "license": "CC0-1.0"
+          },
+          {
+            "file": "res://.local_test/v13_audio_sources/rpg/spell_fire_05.ogg",
+            "author": "rubberduck",
+            "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+            "sha256": "18025b21a4ecb3b41acc0dccb0697a8930262109ea198ff8c5ef0853d3ed1cfa",
+            "license": "CC0-1.0"
+          }
+        ],
+        "path": "assets/audio/sfx/boss_impact_texture.wav",
+        "sha256": "fa41bad84bbb0a9e5e17c1049dc63d416652172c01c3770d05301f1bf97f5936"
+      },
+      {
+        "duration": 0.5,
+        "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+        "file": "boss_tome_texture.wav",
+        "gain": 0.623573519334437,
+        "license": "CC0-1.0",
+        "source_peak": 0.60939085483551,
+        "source_rms": 0.0787070947320373,
+        "sources": [
+          {
+            "file": "res://.local_test/audio_sources/rpg/Audio/bookOpen.ogg",
+            "author": "Kenney Vleugels",
+            "page": "https://kenney.nl/assets/rpg-audio",
+            "sha256": "953390534377222bee89ac8cd9e60a58fdc037c71a4d7c18c43cd647c7f34ba8",
+            "license": "CC0-1.0"
+          },
+          {
+            "file": "res://.local_test/v13_audio_sources/rpg/spell_01.ogg",
+            "author": "rubberduck",
+            "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+            "sha256": "09821a53c418c5eeeac4fa25bada9d245e822fed302eeeae9ae4151522a45ae5",
+            "license": "CC0-1.0"
+          }
+        ],
+        "path": "assets/audio/sfx/boss_tome_texture.wav",
+        "sha256": "09f84a1a5700b797217c19405deb012b9b1459314ee4adcb2324fc39d19d4ca2"
+      },
+      {
+        "duration": 0.32,
+        "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+        "file": "ink_splash_texture.wav",
+        "gain": 0.536650964190087,
+        "license": "CC0-1.0",
+        "source_peak": 0.708095252513886,
+        "source_rms": 0.0783408505145679,
+        "sources": [
+          {
+            "file": "res://.local_test/v13_audio_sources/rpg/creature_slime_02.ogg",
+            "author": "rubberduck",
+            "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+            "sha256": "8c26b66076752b712dad7be704a3e4e11d3a49847fbd804ba7f858024ff33c8d",
+            "license": "CC0-1.0"
+          }
+        ],
+        "path": "assets/audio/sfx/ink_splash_texture.wav",
+        "sha256": "b1ea0f9e6248cf7ea2f4e50a5e9318bc660e881ad3f9a3891e66c0fd04a16ca0"
+      },
+      {
+        "duration": 0.42,
+        "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+        "file": "ink_spray.wav",
+        "gain": 0.61171723273781,
+        "license": "CC0-1.0",
+        "source_peak": 0.621202051639557,
+        "source_rms": 0.0814779223185782,
+        "sources": [
+          {
+            "file": "res://.local_test/v13_audio_sources/rpg/creature_slime_01.ogg",
+            "author": "rubberduck",
+            "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+            "sha256": "746d6ef073abfadd43fe184c50c6a2528350d4f566f2c0f54cd51ff0eb665118",
+            "license": "CC0-1.0"
+          }
+        ],
+        "path": "assets/audio/sfx/ink_spray.wav",
+        "sha256": "79158bba27f344212cf81e083aa39735ac80075ec5c58aefb99e508e16b74e57"
+      },
+      {
+        "duration": 0.65,
+        "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+        "file": "ink_surge_texture.wav",
+        "gain": 0.617709680594861,
+        "license": "CC0-1.0",
+        "source_peak": 0.615175724029541,
+        "source_rms": 0.0625753024033508,
+        "sources": [
+          {
+            "file": "res://.local_test/v13_audio_sources/rpg/creature_slime_04.ogg",
+            "author": "rubberduck",
+            "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+            "sha256": "720c15c73a7fae29a02a9cd3cb5b9940ae8213e4b50f8deb0c531796289290d9",
+            "license": "CC0-1.0"
+          }
+        ],
+        "path": "assets/audio/sfx/ink_surge_texture.wav",
+        "sha256": "b2095f5ae2c83d6fcb128596c58758c1eff501633ef0c274828c66b6881eec61"
+      },
+      {
+        "duration": 0.55,
+        "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+        "file": "mimic_bite_texture.wav",
+        "gain": 0.379226953874677,
+        "license": "CC0-1.0",
+        "source_peak": 1.00203847885132,
+        "source_rms": 0.0733428624110454,
+        "sources": [
+          {
+            "file": "res://.local_test/audio_sources/rpg/Audio/bookClose.ogg",
+            "author": "Kenney Vleugels",
+            "page": "https://kenney.nl/assets/rpg-audio",
+            "sha256": "81e976532565f4372abd14e83d2684195fa548d0a28d345de221e56052454f32",
+            "license": "CC0-1.0"
+          },
+          {
+            "file": "res://.local_test/v13_audio_sources/rpg/creature_monster_02.ogg",
+            "author": "rubberduck",
+            "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+            "sha256": "2892a32ddfc8d0fc3896f6487adf5a2eb6f3f5766fa02151bddd55e18f218f2f",
+            "license": "CC0-1.0"
+          }
+        ],
+        "path": "assets/audio/sfx/mimic_bite_texture.wav",
+        "sha256": "3a4fa559835e72c1a7b20035575af78068d7fd4aabffc49c57a70326d3dcce5a"
+      },
+      {
+        "duration": 0.65,
+        "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+        "file": "mimic_devour_texture.wav",
+        "gain": 0.628230553267496,
+        "license": "CC0-1.0",
+        "source_peak": 0.604873478412628,
+        "source_rms": 0.0626468381364338,
+        "sources": [
+          {
+            "file": "res://.local_test/v13_audio_sources/rpg/creature_monster_03.ogg",
+            "author": "rubberduck",
+            "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+            "sha256": "b13abf8c710750bb3699ae61b450fc7c12e92cb9c180581b0f1a681f7f692c8b",
+            "license": "CC0-1.0"
+          },
+          {
+            "file": "res://.local_test/audio_sources/rpg/Audio/bookClose.ogg",
+            "author": "Kenney Vleugels",
+            "page": "https://kenney.nl/assets/rpg-audio",
+            "sha256": "81e976532565f4372abd14e83d2684195fa548d0a28d345de221e56052454f32",
+            "license": "CC0-1.0"
+          }
+        ],
+        "path": "assets/audio/sfx/mimic_devour_texture.wav",
+        "sha256": "32fbc19186343828989dc961d9b46860c9130e4201367f00ae8c52b032faa2ce"
+      },
+      {
+        "duration": 0.55,
+        "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+        "file": "mimic_drain.wav",
+        "gain": 0.403804213032251,
+        "license": "CC0-1.0",
+        "source_peak": 0.941050112247467,
+        "source_rms": 0.0908117670143418,
+        "sources": [
+          {
+            "file": "res://.local_test/v13_audio_sources/rpg/spell_02.ogg",
+            "author": "rubberduck",
+            "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+            "sha256": "bf9c48b76921e56aa266172d969a2c08215d6ce0ffae7c3584f23fa05d3f8bd4",
+            "license": "CC0-1.0"
+          }
+        ],
+        "path": "assets/audio/sfx/mimic_drain.wav",
+        "sha256": "546556947e87803175a15b98e9f1dae6e5cda51380f76796814811bdfad80bee"
+      },
+      {
+        "duration": 0.32,
+        "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+        "file": "mimic_open_texture.wav",
+        "gain": 1.8532876882167,
+        "license": "CC0-1.0",
+        "source_peak": 0.205041021108627,
+        "source_rms": 0.0133319413553689,
+        "sources": [
+          {
+            "file": "res://.local_test/audio_sources/rpg/Audio/bookOpen.ogg",
+            "author": "Kenney Vleugels",
+            "page": "https://kenney.nl/assets/rpg-audio",
+            "sha256": "953390534377222bee89ac8cd9e60a58fdc037c71a4d7c18c43cd647c7f34ba8",
+            "license": "CC0-1.0"
+          }
+        ],
+        "path": "assets/audio/sfx/mimic_open_texture.wav",
+        "sha256": "10fd97dce51afd4fdf6875279fb46633189c87c0932961af0b32ec3440a39a9a"
+      },
+      {
+        "duration": 0.42,
+        "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+        "file": "paper_heavy.wav",
+        "gain": 0.378417779778486,
+        "license": "CC0-1.0",
+        "source_peak": 1.0041811466217,
+        "source_rms": 0.0790322282198978,
+        "sources": [
+          {
+            "file": "res://.local_test/audio_sources/rpg/Audio/bookClose.ogg",
+            "author": "Kenney Vleugels",
+            "page": "https://kenney.nl/assets/rpg-audio",
+            "sha256": "81e976532565f4372abd14e83d2684195fa548d0a28d345de221e56052454f32",
+            "license": "CC0-1.0"
+          }
+        ],
+        "path": "assets/audio/sfx/paper_heavy.wav",
+        "sha256": "32d4881fb07e95c161535a6a7b02a7686530a975faebd77660502e937bee8074"
+      },
+      {
+        "duration": 0.4,
+        "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+        "file": "paper_rustle.wav",
+        "gain": 0.751208949075597,
+        "license": "CC0-1.0",
+        "source_peak": 0.505851268768311,
+        "source_rms": 0.0180965768556273,
+        "sources": [
+          {
+            "file": "res://.local_test/audio_sources/rpg/Audio/bookFlip3.ogg",
+            "author": "Kenney Vleugels",
+            "page": "https://kenney.nl/assets/rpg-audio",
+            "sha256": "c85db5dceb3f1df073e960630277eaa88a5afda0477c1ddd68dad707621767be",
+            "license": "CC0-1.0"
+          }
+        ],
+        "path": "assets/audio/sfx/paper_rustle.wav",
+        "sha256": "cb6794f32cbfeaa84cde90ba5b29255a5fb0296461d4795f48900ec378a5dada"
+      },
+      {
+        "duration": 0.32,
+        "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+        "file": "paper_strike.wav",
+        "gain": 0.357622422592222,
+        "license": "CC0-1.0",
+        "source_peak": 1.06257319450378,
+        "source_rms": 0.116447495035496,
+        "sources": [
+          {
+            "file": "res://.local_test/audio_sources/rpg/Audio/bookPlace3.ogg",
+            "author": "Kenney Vleugels",
+            "page": "https://kenney.nl/assets/rpg-audio",
+            "sha256": "b1afa711e1cabfe5b2c56e20e20e0f9d82142d067727447fa992ddc43dbdb06e",
+            "license": "CC0-1.0"
+          }
+        ],
+        "path": "assets/audio/sfx/paper_strike.wav",
+        "sha256": "78a8b5f5aac0645c73b62c58b4baa5c628945518b0ddfff5afe9ca9460106e0a"
+      },
+      {
+        "duration": 0.42,
+        "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+        "file": "wisp_fire.wav",
+        "gain": 2.88179872450522,
+        "license": "CC0-1.0",
+        "source_peak": 0.131862089037895,
+        "source_rms": 0.0135818824117756,
+        "sources": [
+          {
+            "file": "res://.local_test/v13_audio_sources/rpg/spell_fire_01.ogg",
+            "author": "rubberduck",
+            "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+            "sha256": "02fa3a2c6e79e868e546802f45127c5cdda69aba6d5a24ac997ea66f81a816cb",
+            "license": "CC0-1.0"
+          }
+        ],
+        "path": "assets/audio/sfx/wisp_fire.wav",
+        "sha256": "1d07650a4b645731ac90cd1ea4c90d4fab612c7b3349c9f1e43796a479f2275f"
+      },
+      {
+        "duration": 0.65,
+        "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+        "file": "wisp_flare.wav",
+        "gain": 2.72523800684436,
+        "license": "CC0-1.0",
+        "source_peak": 0.139437362551689,
+        "source_rms": 0.0252938284095667,
+        "sources": [
+          {
+            "file": "res://.local_test/v13_audio_sources/rpg/spell_fire_07.ogg",
+            "author": "rubberduck",
+            "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+            "sha256": "bb13cef9c0b0b4ec7f9335c356b14814c88418abd85dd3747cb62469e9ada93f",
+            "license": "CC0-1.0"
+          }
+        ],
+        "path": "assets/audio/sfx/wisp_flare.wav",
+        "sha256": "be9247b40c15fa2a9c083ff4bb8f8c12346a9b883cdabab7073e4d7005df9bfa"
+      },
+      {
+        "duration": 0.38,
+        "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+        "file": "wisp_shift.wav",
+        "gain": 2.21271005474385,
+        "license": "CC0-1.0",
+        "source_peak": 0.171735107898712,
+        "source_rms": 0.0124968890073403,
+        "sources": [
+          {
+            "file": "res://.local_test/v13_audio_sources/rpg/spell_fire_04.ogg",
+            "author": "rubberduck",
+            "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+            "sha256": "64d653cd0cc6eb71bb45a1dfbba29eaa769ed5b663cce275082d6971e4f2ca8e",
+            "license": "CC0-1.0"
+          }
+        ],
+        "path": "assets/audio/sfx/wisp_shift.wav",
+        "sha256": "43dd0dc0455022ec58c0dab7bc68459af6eb921dccfbfc8ac6502b2d7e2b7ce5"
+      }
+    ]
+  }
+}

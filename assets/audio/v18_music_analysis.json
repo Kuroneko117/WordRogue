@@ -1,0 +1,50 @@
+{
+	"boss_battle": {
+		"duration": 54.8571434020996,
+		"loop_alive": true,
+		"loop_boundary_step": 0.000488732010126114,
+		"rms_sampled_16s": 0.105127937389615,
+		"sample_peak": 0.754966735839844,
+		"suggested_gain_db": 0.0
+	},
+	"elite_battle": {
+		"duration": 92.079833984375,
+		"loop_alive": true,
+		"loop_boundary_step": 0.0210274159908295,
+		"rms_sampled_16s": 0.225200681281054,
+		"sample_peak": 1.05611574649811,
+		"suggested_gain_db": -4.77252695419499
+	},
+	"event_special": {
+		"duration": 48.0,
+		"loop_alive": true,
+		"loop_boundary_step": 0.00335612893104553,
+		"rms_sampled_16s": 0.0701183381864525,
+		"sample_peak": 0.347707569599152,
+		"suggested_gain_db": 0.0
+	},
+	"memory_rest": {
+		"duration": 124.099998474121,
+		"loop_alive": true,
+		"loop_boundary_step": 0.000488313289679354,
+		"rms_sampled_16s": 0.0545980238291343,
+		"sample_peak": 0.419153332710266,
+		"suggested_gain_db": 0.0
+	},
+	"normal_battle": {
+		"duration": 15.3599996566772,
+		"loop_alive": true,
+		"loop_boundary_step": 0.0135352723300457,
+		"rms_sampled_16s": 0.0937054190182149,
+		"sample_peak": 0.381613194942474,
+		"suggested_gain_db": 0.0
+	},
+	"title_map": {
+		"duration": 25.6116104125977,
+		"loop_alive": true,
+		"loop_boundary_step": 0.0000154853555613954,
+		"rms_sampled_16s": 0.167450766504556,
+		"sample_peak": 0.895818471908569,
+		"suggested_gain_db": -2.19887575106291
+	}
+}

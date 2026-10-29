@@ -1,0 +1,134 @@
+{
+  "boss_intro": {
+    "duration": 1.2,
+    "edits": "Trim leading silence, cap duration, mono 16-bit PCM, RMS/peak gain and short fade edges",
+    "file": "boss_intro.wav",
+    "gain": 3.54550299009939,
+    "license": "CC0",
+    "pack": "JaggedStone Magic Spell SFX",
+    "source_file": "magical_4.ogg",
+    "source_peak": 0.169228456914425,
+    "source_rms": 0.0342980537087027
+  },
+  "combo": {
+    "duration": 0.65,
+    "edits": "Trim leading silence, cap duration, mono 16-bit PCM, RMS/peak gain and short fade edges",
+    "file": "combo.wav",
+    "gain": 2.36730481876033,
+    "license": "CC0",
+    "pack": "JaggedStone Magic Spell SFX",
+    "source_file": "magical_1.ogg",
+    "source_peak": 0.253452785313129,
+    "source_rms": 0.0590469165933367
+  },
+  "correct": {
+    "duration": 0.289659863945578,
+    "edits": "Trim leading silence, cap duration, mono 16-bit PCM, RMS/peak gain and short fade edges",
+    "file": "correct.wav",
+    "gain": 0.514789965318939,
+    "license": "CC0",
+    "pack": "Kenney Interface Sounds",
+    "source_file": "interface/Audio/confirmation_001.ogg",
+    "source_peak": 0.898484826087952,
+    "source_rms": 0.271955573013672
+  },
+  "defeat": {
+    "duration": 0.796167800453515,
+    "edits": "Trim leading silence, cap duration, mono 16-bit PCM, RMS/peak gain and short fade edges",
+    "file": "defeat.wav",
+    "gain": 0.792547216262103,
+    "license": "CC0",
+    "pack": "Kenney Music Jingles",
+    "source_file": "jingles/Audio/Pizzicato jingles/jingles_PIZZI15.ogg",
+    "source_peak": 0.656605541706085,
+    "source_rms": 0.176645627071007
+  },
+  "enemy_death": {
+    "duration": 0.85,
+    "edits": "Trim leading silence, cap duration, mono 16-bit PCM, RMS/peak gain and short fade edges",
+    "file": "enemy_death.wav",
+    "gain": 10.2944094003311,
+    "license": "CC0",
+    "pack": "JaggedStone Magic Spell SFX",
+    "source_file": "magical_6.ogg",
+    "source_peak": 0.0547146759927273,
+    "source_rms": 0.0135996145631722
+  },
+  "magic_hit": {
+    "duration": 0.4,
+    "edits": "Trim leading silence, cap duration, mono 16-bit PCM, RMS/peak gain and short fade edges",
+    "file": "magic_hit.wav",
+    "gain": 4.46891911694767,
+    "license": "CC0",
+    "pack": "JaggedStone Magic Spell SFX",
+    "source_file": "magical_5.ogg",
+    "source_peak": 0.110629297792912,
+    "source_rms": 0.0313274857602752
+  },
+  "player_cast": {
+    "duration": 0.65,
+    "edits": "Trim leading silence, cap duration, mono 16-bit PCM, RMS/peak gain and short fade edges",
+    "file": "player_cast.wav",
+    "gain": 0.929228379727995,
+    "license": "CC0",
+    "pack": "JaggedStone Magic Spell SFX",
+    "source_file": "magical_3.ogg",
+    "source_peak": 0.425585806369781,
+    "source_rms": 0.150662639082312
+  },
+  "player_hurt": {
+    "duration": 0.276598639455782,
+    "edits": "Trim leading silence, cap duration, mono 16-bit PCM, RMS/peak gain and short fade edges",
+    "file": "player_hurt.wav",
+    "gain": 0.586684270892505,
+    "license": "CC0",
+    "pack": "Kenney RPG Audio",
+    "source_file": "rpg/Audio/bookPlace1.ogg",
+    "source_peak": 1.02269658446312,
+    "source_rms": 0.118432652105765
+  },
+  "reward_select": {
+    "duration": 0.321859410430839,
+    "edits": "Trim leading silence, cap duration, mono 16-bit PCM, RMS/peak gain and short fade edges",
+    "file": "reward_select.wav",
+    "gain": 0.671663539211996,
+    "license": "CC0",
+    "pack": "Kenney Interface Sounds",
+    "source_file": "interface/Audio/confirmation_003.ogg",
+    "source_peak": 0.893304407596588,
+    "source_rms": 0.173366603995774
+  },
+  "ui_click": {
+    "duration": 0.0998866213151927,
+    "edits": "Trim leading silence, cap duration, mono 16-bit PCM, RMS/peak gain and short fade edges",
+    "file": "ui_click.wav",
+    "gain": 0.701174788040186,
+    "license": "CC0",
+    "pack": "Kenney Interface Sounds",
+    "source_file": "interface/Audio/click_001.ogg",
+    "source_peak": 0.855706751346588,
+    "source_rms": 0.047217420505932
+  },
+  "victory": {
+    "duration": 0.489183673469388,
+    "edits": "Trim leading silence, cap duration, mono 16-bit PCM, RMS/peak gain and short fade edges",
+    "file": "victory.wav",
+    "gain": 1.04553507637921,
+    "license": "CC0",
+    "pack": "Kenney Music Jingles",
+    "source_file": "jingles/Audio/Pizzicato jingles/jingles_PIZZI00.ogg",
+    "source_peak": 0.49452668428421,
+    "source_rms": 0.133902729007269
+  },
+  "wrong": {
+    "duration": 0.164421768707483,
+    "edits": "Trim leading silence, cap duration, mono 16-bit PCM, RMS/peak gain and short fade edges",
+    "file": "wrong.wav",
+    "gain": 0.65813281294642,
+    "license": "CC0",
+    "pack": "Kenney Interface Sounds",
+    "source_file": "interface/Audio/error_001.ogg",
+    "source_peak": 0.911670088768005,
+    "source_rms": 0.111342379845063
+  }
+}

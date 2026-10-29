@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-23",
+  "scope": "Grimoire UI shared across whole game",
+  "reference": "设定参考图/battle_ui_target.png (style reference only, not included in runtime)",
+  "figma": "https://www.figma.com/design/3PW9KHOUqll0VIuNiSNWej",
+  "figma_scope": "Interaction/color component contract; Godot screenshots are final visual evidence",
+  "runtime_art_count": 12,
+  "runtime_art_bytes": 2285315.0,
+  "files": [
+    {
+      "file": "aegis_seal.svg",
+      "bytes": 905,
+      "sha256": "E1988A181E45DAC5945758DBD0B9DDAC78EFC42A331A24C7A1E3AC4893561E44",
+      "source": "Original editable SVG authored for WordRogue, 2026-10-22"
+    },
+    {
+      "file": "answer_scroll.png",
+      "bytes": 474594,
+      "sha256": "A0CE75FE8B17BC14AA51D63D3ECD86D9F4CA0DE1E1CE0BE5DCF195C2CABBFF5B",
+      "source": "Built-in image generation, 2026-10-22; blank isolated UI asset; alpha-preserving uniform resample"
+    },
+    {
+      "file": "arcane_seal.svg",
+      "bytes": 863,
+      "sha256": "0F6F5D1FB861EFC2F46734EB5FD2074E020C2D675E99A3179FC14B61D171A301",
+      "source": "Original editable SVG authored for WordRogue, 2026-10-22"
+    },
+    {
+      "file": "gothic_frame.svg",
+      "bytes": 1229,
+      "sha256": "CAD8E5ADD4D1CD21633E7636FD17674927EFE761AF5F64D568861E4C8AFEB973",
+      "source": "Original editable SVG authored for WordRogue, 2026-10-22"
+    },
+    {
+      "file": "memory_seal.svg",
+      "bytes": 727,
+      "sha256": "8B0AF569837D75AEA531782FE07CFB5C89F7394A485523677B187FFC1C3E0300",
+      "source": "Original editable SVG authored for WordRogue, 2026-10-22"
+    },
+    {
+      "file": "parchment_scroll.png",
+      "bytes": 491752,
+      "sha256": "3181EEA246F814BBB6AF0C3384BC7A252A722EBD26CDF9142D08888CC57554FC",
+      "source": "Built-in image generation, 2026-10-22; blank isolated UI asset; alpha-preserving uniform resample"
+    },
+    {
+      "file": "ribbon_frame.svg",
+      "bytes": 831,
+      "sha256": "9EE9B24A20B9799805EC5A6C9824A4CABA683ED35557433E018E6533AD8B4334",
+      "source": "Original editable SVG authored for WordRogue, 2026-10-22"
+    },
+    {
+      "file": "rune_circle.svg",
+      "bytes": 825,
+      "sha256": "0B9A95E345C2B3CA1C1301DB899EE289ED52A90BB6BCF088D5A59794C0B66EAB",
+      "source": "Original editable SVG authored for WordRogue, 2026-10-22"
+    },
+    {
+      "file": "spell_aegis_frame.svg",
+      "bytes": 1229,
+      "sha256": "9F97BECB2BDE3C4C74E7C94945E152E8C8280C6955AD53C62AAC46C5CFF5954D",
+      "source": "Original editable SVG authored for WordRogue, 2026-10-22"
+    },
+    {
+      "file": "spell_arcane_frame.svg",
+      "bytes": 1229,
+      "sha256": "CAD8E5ADD4D1CD21633E7636FD17674927EFE761AF5F64D568861E4C8AFEB973",
+      "source": "Original editable SVG authored for WordRogue, 2026-10-22"
+    },
+    {
+      "file": "spell_memory_frame.svg",
+      "bytes": 1229,
+      "sha256": "0505F57C8A44B597B439409ABD0B3A0F52DB5C7B80B3653E7A584C90875B478D",
+      "source": "Original editable SVG authored for WordRogue, 2026-10-22"
+    },
+    {
+      "file": "leather_cover.png",
+      "bytes": 1309902,
+      "sha256": "CFF5E3BDF6F12BC5F05B3C878D32DABC19134D5D7DCDB34FBEF8844CDC72E6B6",
+      "source": "Built-in image generation 2026-10-23, blank navy leather book cover; uniform resample; original in backups/whole_ui_20261023/leather_cover_master.png"
+    }
+  ],
+  "states": [
+    "normal",
+    "hover",
+    "pressed",
+    "disabled",
+    "correct",
+    "wrong"
+  ],
+  "notes": "Text is always rendered by Godot. Answer states share a nine-sliced parchment and use runtime modulation. No external art download or ComfyUI model installation."
+}

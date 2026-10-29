@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "errors": [],
+  "count": 1500,
+  "unique": 1500,
+  "original_count": 120,
+  "shared_words": 92,
+  "entries_checked": 1500,
+  "min_distractor_candidates": 1438,
+  "source": "ECDICT cet4 tag / frq",
+  "semantic_limit": "Token, substring and curated equivalence-group checks cannot prove absence of every semantic ambiguity. 100 entries reviewed separately; no human-teacher full review claimed.",
+  "sha256": "e2c606d12105731094bbb26a6a88ff29b84183fb484071a183031b1fa0d442d2"
+}

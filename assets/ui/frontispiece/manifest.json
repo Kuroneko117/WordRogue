@@ -1,0 +1,15 @@
+{
+  "family": "WordRogue restrained frontispiece study",
+  "assets": [
+    {
+      "file": "tower_book.svg",
+      "method": "Editable SVG paths authored by Codex for this project; no raster image generator or external illustration used.",
+      "size": [64, 80],
+      "alpha": true,
+      "use": "Title wordmark companion, preserve aspect ratio",
+      "status": "direction study, pending user visual acceptance"
+    }
+  ],
+  "reused_art": "res://assets/backgrounds/library_corridor.jpg (existing project resource; original file unchanged)",
+  "fonts": "Windows SimSun/Georgia system fonts, with existing packaged Noto Sans SC fallback. No system font file is copied or redistributed."
+}

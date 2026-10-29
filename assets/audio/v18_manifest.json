@@ -1,0 +1,459 @@
+{
+  "date": "2026-10-10",
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "music": [
+    {
+      "path": "assets/audio/bgm/title_map.ogg",
+      "title": "Iremos Forest Theme Loop",
+      "author": "beardalaxy",
+      "page": "https://opengameart.org/content/iremos-forest-theme-loop",
+      "download": "https://opengameart.org/sites/default/files/iremos_forest_in_game.ogg",
+      "license": "CC0-1.0",
+      "sha256": "52103c8ef155224a9faeb3a834efe589a27ec0eeb929fdfa855e23d365f8fc01",
+      "duration": 25.6116104125977,
+      "playback_gain_db": -2.19887575106291,
+      "edits": "original OGG bytes; loop enabled at runtime; resource attenuation only"
+    },
+    {
+      "path": "assets/audio/bgm/elite_battle.ogg",
+      "title": "Cynic Battle Loop",
+      "author": "Alex Smith / The Cynic Project; loop edit by Ferk",
+      "page": "https://opengameart.org/content/cynic-battle-loop",
+      "download": "https://opengameart.org/sites/default/files/cynicbattleloop_0.ogg",
+      "license": "CC0-1.0",
+      "sha256": "39195451e23c929dce5bed687b0d78454c32eb574b06713ea3d079b6b37b6a86",
+      "duration": 92.079833984375,
+      "playback_gain_db": -4.77252695419499,
+      "edits": "original OGG bytes; loop enabled at runtime; resource attenuation only"
+    },
+    {
+      "path": "assets/audio/bgm/memory_rest.ogg",
+      "title": "Forget Me Not (looped)",
+      "author": "Kistol",
+      "page": "https://opengameart.org/content/forget-me-not",
+      "download": "https://opengameart.org/sites/default/files/forget_me_not_in_f_major_looped.ogg",
+      "license": "CC0-1.0",
+      "sha256": "2b9b9fc512c34d52b999ed1fd7e01f960f830f3defc5d2241f6e02f8be81ef77",
+      "duration": 124.099998474121,
+      "playback_gain_db": 0.0,
+      "edits": "original OGG bytes; loop enabled at runtime; resource attenuation only"
+    },
+    {
+      "path": "assets/audio/bgm/event_special.ogg",
+      "title": "Unsolved Investigation",
+      "author": "isaiah658",
+      "page": "https://opengameart.org/content/unsolved-investigation",
+      "download": "https://opengameart.org/sites/default/files/Unsolved-Investigation-isaiah658_0.ogg",
+      "license": "CC0-1.0",
+      "sha256": "2877e423ff90cb99b3082840e66cf79d69a809708466c6f27c750c0e1ce2a912",
+      "duration": 48.0,
+      "playback_gain_db": 0.0,
+      "edits": "original OGG bytes; loop enabled at runtime; resource attenuation only"
+    }
+  ],
+  "sfx": [
+    {
+      "duration": 0.48,
+      "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+      "file": "archive_chain_texture.wav",
+      "gain": 0.41225595304453,
+      "license": "CC0-1.0",
+      "source_peak": 0.921757459640503,
+      "source_rms": 0.118874615604001,
+      "sources": [
+        {
+          "file": "res://.local_test/v13_audio_sources/rpg/chain_01.ogg",
+          "author": "rubberduck",
+          "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+          "sha256": "d376caf0f61384b1d2e0b447f64f06be56d0ee0622ba70dd01cfdd78b3a10687",
+          "license": "CC0-1.0"
+        }
+      ],
+      "path": "assets/audio/sfx/archive_chain_texture.wav",
+      "sha256": "861f28fe7056fbbe8e93a24f39488f1628225db548e6b2921aaecc10f0d3f3f3"
+    },
+    {
+      "duration": 0.6,
+      "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+      "file": "archive_judgment_texture.wav",
+      "gain": 0.373621371847655,
+      "license": "CC0-1.0",
+      "source_peak": 1.01707243919373,
+      "source_rms": 0.120880891833372,
+      "sources": [
+        {
+          "file": "res://.local_test/v13_audio_sources/rpg/spell_01.ogg",
+          "author": "rubberduck",
+          "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+          "sha256": "09821a53c418c5eeeac4fa25bada9d245e822fed302eeeae9ae4151522a45ae5",
+          "license": "CC0-1.0"
+        },
+        {
+          "file": "res://.local_test/v13_audio_sources/rpg/item_gem_04.ogg",
+          "author": "rubberduck",
+          "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+          "sha256": "e12eb95d0458675c2692831454ed09c7a680de966e7c705ce67a7e12560aa73a",
+          "license": "CC0-1.0"
+        }
+      ],
+      "path": "assets/audio/sfx/archive_judgment_texture.wav",
+      "sha256": "fc57ff64088dd6ec067308f8f86af505cf7d37e22a3f7867e341d910b36d825a"
+    },
+    {
+      "duration": 0.5,
+      "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+      "file": "archive_seal_texture.wav",
+      "gain": 0.406208655673137,
+      "license": "CC0-1.0",
+      "source_peak": 0.935479819774628,
+      "source_rms": 0.09665322322495,
+      "sources": [
+        {
+          "file": "res://.local_test/v13_audio_sources/rpg/spell_02.ogg",
+          "author": "rubberduck",
+          "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+          "sha256": "bf9c48b76921e56aa266172d969a2c08215d6ce0ffae7c3584f23fa05d3f8bd4",
+          "license": "CC0-1.0"
+        },
+        {
+          "file": "res://.local_test/v13_audio_sources/rpg/lock_03.ogg",
+          "author": "rubberduck",
+          "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+          "sha256": "5fdb74f95dc42dfd06eb89c548c2ab6a3c008a3c9ce3badcdb0e51409e0a4f44",
+          "license": "CC0-1.0"
+        }
+      ],
+      "path": "assets/audio/sfx/archive_seal_texture.wav",
+      "sha256": "b29259a8d116b255c8a045440d589c3a1039a2c824d75c4cd5393def291f6c65"
+    },
+    {
+      "duration": 0.6,
+      "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+      "file": "boss_impact_texture.wav",
+      "gain": 0.383426154371055,
+      "license": "CC0-1.0",
+      "source_peak": 0.991064369678497,
+      "source_rms": 0.0532239882452236,
+      "sources": [
+        {
+          "file": "res://.local_test/v13_audio_sources/rpg/stones_04.ogg",
+          "author": "rubberduck",
+          "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+          "sha256": "66f1cef820f66d86414d481b37a48a7b7ea11f4a5d7358372ebcfb506af0e652",
+          "license": "CC0-1.0"
+        },
+        {
+          "file": "res://.local_test/v13_audio_sources/rpg/spell_fire_05.ogg",
+          "author": "rubberduck",
+          "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+          "sha256": "18025b21a4ecb3b41acc0dccb0697a8930262109ea198ff8c5ef0853d3ed1cfa",
+          "license": "CC0-1.0"
+        }
+      ],
+      "path": "assets/audio/sfx/boss_impact_texture.wav",
+      "sha256": "fa41bad84bbb0a9e5e17c1049dc63d416652172c01c3770d05301f1bf97f5936"
+    },
+    {
+      "duration": 0.5,
+      "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+      "file": "boss_tome_texture.wav",
+      "gain": 0.623573519334437,
+      "license": "CC0-1.0",
+      "source_peak": 0.60939085483551,
+      "source_rms": 0.0787070947320373,
+      "sources": [
+        {
+          "file": "res://.local_test/audio_sources/rpg/Audio/bookOpen.ogg",
+          "author": "Kenney Vleugels",
+          "page": "https://kenney.nl/assets/rpg-audio",
+          "sha256": "953390534377222bee89ac8cd9e60a58fdc037c71a4d7c18c43cd647c7f34ba8",
+          "license": "CC0-1.0"
+        },
+        {
+          "file": "res://.local_test/v13_audio_sources/rpg/spell_01.ogg",
+          "author": "rubberduck",
+          "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+          "sha256": "09821a53c418c5eeeac4fa25bada9d245e822fed302eeeae9ae4151522a45ae5",
+          "license": "CC0-1.0"
+        }
+      ],
+      "path": "assets/audio/sfx/boss_tome_texture.wav",
+      "sha256": "09f84a1a5700b797217c19405deb012b9b1459314ee4adcb2324fc39d19d4ca2"
+    },
+    {
+      "duration": 0.32,
+      "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+      "file": "ink_splash_texture.wav",
+      "gain": 0.536650964190087,
+      "license": "CC0-1.0",
+      "source_peak": 0.708095252513886,
+      "source_rms": 0.0783408505145679,
+      "sources": [
+        {
+          "file": "res://.local_test/v13_audio_sources/rpg/creature_slime_02.ogg",
+          "author": "rubberduck",
+          "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+          "sha256": "8c26b66076752b712dad7be704a3e4e11d3a49847fbd804ba7f858024ff33c8d",
+          "license": "CC0-1.0"
+        }
+      ],
+      "path": "assets/audio/sfx/ink_splash_texture.wav",
+      "sha256": "b1ea0f9e6248cf7ea2f4e50a5e9318bc660e881ad3f9a3891e66c0fd04a16ca0"
+    },
+    {
+      "duration": 0.42,
+      "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+      "file": "ink_spray.wav",
+      "gain": 0.61171723273781,
+      "license": "CC0-1.0",
+      "source_peak": 0.621202051639557,
+      "source_rms": 0.0814779223185782,
+      "sources": [
+        {
+          "file": "res://.local_test/v13_audio_sources/rpg/creature_slime_01.ogg",
+          "author": "rubberduck",
+          "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+          "sha256": "746d6ef073abfadd43fe184c50c6a2528350d4f566f2c0f54cd51ff0eb665118",
+          "license": "CC0-1.0"
+        }
+      ],
+      "path": "assets/audio/sfx/ink_spray.wav",
+      "sha256": "79158bba27f344212cf81e083aa39735ac80075ec5c58aefb99e508e16b74e57"
+    },
+    {
+      "duration": 0.65,
+      "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+      "file": "ink_surge_texture.wav",
+      "gain": 0.617709680594861,
+      "license": "CC0-1.0",
+      "source_peak": 0.615175724029541,
+      "source_rms": 0.0625753024033508,
+      "sources": [
+        {
+          "file": "res://.local_test/v13_audio_sources/rpg/creature_slime_04.ogg",
+          "author": "rubberduck",
+          "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+          "sha256": "720c15c73a7fae29a02a9cd3cb5b9940ae8213e4b50f8deb0c531796289290d9",
+          "license": "CC0-1.0"
+        }
+      ],
+      "path": "assets/audio/sfx/ink_surge_texture.wav",
+      "sha256": "b2095f5ae2c83d6fcb128596c58758c1eff501633ef0c274828c66b6881eec61"
+    },
+    {
+      "duration": 0.55,
+      "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+      "file": "mimic_bite_texture.wav",
+      "gain": 0.379226953874677,
+      "license": "CC0-1.0",
+      "source_peak": 1.00203847885132,
+      "source_rms": 0.0733428624110454,
+      "sources": [
+        {
+          "file": "res://.local_test/audio_sources/rpg/Audio/bookClose.ogg",
+          "author": "Kenney Vleugels",
+          "page": "https://kenney.nl/assets/rpg-audio",
+          "sha256": "81e976532565f4372abd14e83d2684195fa548d0a28d345de221e56052454f32",
+          "license": "CC0-1.0"
+        },
+        {
+          "file": "res://.local_test/v13_audio_sources/rpg/creature_monster_02.ogg",
+          "author": "rubberduck",
+          "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+          "sha256": "2892a32ddfc8d0fc3896f6487adf5a2eb6f3f5766fa02151bddd55e18f218f2f",
+          "license": "CC0-1.0"
+        }
+      ],
+      "path": "assets/audio/sfx/mimic_bite_texture.wav",
+      "sha256": "3a4fa559835e72c1a7b20035575af78068d7fd4aabffc49c57a70326d3dcce5a"
+    },
+    {
+      "duration": 0.65,
+      "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+      "file": "mimic_devour_texture.wav",
+      "gain": 0.628230553267496,
+      "license": "CC0-1.0",
+      "source_peak": 0.604873478412628,
+      "source_rms": 0.0626468381364338,
+      "sources": [
+        {
+          "file": "res://.local_test/v13_audio_sources/rpg/creature_monster_03.ogg",
+          "author": "rubberduck",
+          "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+          "sha256": "b13abf8c710750bb3699ae61b450fc7c12e92cb9c180581b0f1a681f7f692c8b",
+          "license": "CC0-1.0"
+        },
+        {
+          "file": "res://.local_test/audio_sources/rpg/Audio/bookClose.ogg",
+          "author": "Kenney Vleugels",
+          "page": "https://kenney.nl/assets/rpg-audio",
+          "sha256": "81e976532565f4372abd14e83d2684195fa548d0a28d345de221e56052454f32",
+          "license": "CC0-1.0"
+        }
+      ],
+      "path": "assets/audio/sfx/mimic_devour_texture.wav",
+      "sha256": "32fbc19186343828989dc961d9b46860c9130e4201367f00ae8c52b032faa2ce"
+    },
+    {
+      "duration": 0.55,
+      "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+      "file": "mimic_drain.wav",
+      "gain": 0.403804213032251,
+      "license": "CC0-1.0",
+      "source_peak": 0.941050112247467,
+      "source_rms": 0.0908117670143418,
+      "sources": [
+        {
+          "file": "res://.local_test/v13_audio_sources/rpg/spell_02.ogg",
+          "author": "rubberduck",
+          "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+          "sha256": "bf9c48b76921e56aa266172d969a2c08215d6ce0ffae7c3584f23fa05d3f8bd4",
+          "license": "CC0-1.0"
+        }
+      ],
+      "path": "assets/audio/sfx/mimic_drain.wav",
+      "sha256": "546556947e87803175a15b98e9f1dae6e5cda51380f76796814811bdfad80bee"
+    },
+    {
+      "duration": 0.32,
+      "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+      "file": "mimic_open_texture.wav",
+      "gain": 1.8532876882167,
+      "license": "CC0-1.0",
+      "source_peak": 0.205041021108627,
+      "source_rms": 0.0133319413553689,
+      "sources": [
+        {
+          "file": "res://.local_test/audio_sources/rpg/Audio/bookOpen.ogg",
+          "author": "Kenney Vleugels",
+          "page": "https://kenney.nl/assets/rpg-audio",
+          "sha256": "953390534377222bee89ac8cd9e60a58fdc037c71a4d7c18c43cd647c7f34ba8",
+          "license": "CC0-1.0"
+        }
+      ],
+      "path": "assets/audio/sfx/mimic_open_texture.wav",
+      "sha256": "10fd97dce51afd4fdf6875279fb46633189c87c0932961af0b32ec3440a39a9a"
+    },
+    {
+      "duration": 0.42,
+      "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+      "file": "paper_heavy.wav",
+      "gain": 0.378417779778486,
+      "license": "CC0-1.0",
+      "source_peak": 1.0041811466217,
+      "source_rms": 0.0790322282198978,
+      "sources": [
+        {
+          "file": "res://.local_test/audio_sources/rpg/Audio/bookClose.ogg",
+          "author": "Kenney Vleugels",
+          "page": "https://kenney.nl/assets/rpg-audio",
+          "sha256": "81e976532565f4372abd14e83d2684195fa548d0a28d345de221e56052454f32",
+          "license": "CC0-1.0"
+        }
+      ],
+      "path": "assets/audio/sfx/paper_heavy.wav",
+      "sha256": "32d4881fb07e95c161535a6a7b02a7686530a975faebd77660502e937bee8074"
+    },
+    {
+      "duration": 0.4,
+      "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+      "file": "paper_rustle.wav",
+      "gain": 0.751208949075597,
+      "license": "CC0-1.0",
+      "source_peak": 0.505851268768311,
+      "source_rms": 0.0180965768556273,
+      "sources": [
+        {
+          "file": "res://.local_test/audio_sources/rpg/Audio/bookFlip3.ogg",
+          "author": "Kenney Vleugels",
+          "page": "https://kenney.nl/assets/rpg-audio",
+          "sha256": "c85db5dceb3f1df073e960630277eaa88a5afda0477c1ddd68dad707621767be",
+          "license": "CC0-1.0"
+        }
+      ],
+      "path": "assets/audio/sfx/paper_rustle.wav",
+      "sha256": "cb6794f32cbfeaa84cde90ba5b29255a5fb0296461d4795f48900ec378a5dada"
+    },
+    {
+      "duration": 0.32,
+      "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+      "file": "paper_strike.wav",
+      "gain": 0.357622422592222,
+      "license": "CC0-1.0",
+      "source_peak": 1.06257319450378,
+      "source_rms": 0.116447495035496,
+      "sources": [
+        {
+          "file": "res://.local_test/audio_sources/rpg/Audio/bookPlace3.ogg",
+          "author": "Kenney Vleugels",
+          "page": "https://kenney.nl/assets/rpg-audio",
+          "sha256": "b1afa711e1cabfe5b2c56e20e20e0f9d82142d067727447fa992ddc43dbdb06e",
+          "license": "CC0-1.0"
+        }
+      ],
+      "path": "assets/audio/sfx/paper_strike.wav",
+      "sha256": "78a8b5f5aac0645c73b62c58b4baa5c628945518b0ddfff5afe9ca9460106e0a"
+    },
+    {
+      "duration": 0.42,
+      "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+      "file": "wisp_fire.wav",
+      "gain": 2.88179872450522,
+      "license": "CC0-1.0",
+      "source_peak": 0.131862089037895,
+      "source_rms": 0.0135818824117756,
+      "sources": [
+        {
+          "file": "res://.local_test/v13_audio_sources/rpg/spell_fire_01.ogg",
+          "author": "rubberduck",
+          "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+          "sha256": "02fa3a2c6e79e868e546802f45127c5cdda69aba6d5a24ac997ea66f81a816cb",
+          "license": "CC0-1.0"
+        }
+      ],
+      "path": "assets/audio/sfx/wisp_fire.wav",
+      "sha256": "1d07650a4b645731ac90cd1ea4c90d4fab612c7b3349c9f1e43796a479f2275f"
+    },
+    {
+      "duration": 0.65,
+      "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+      "file": "wisp_flare.wav",
+      "gain": 2.72523800684436,
+      "license": "CC0-1.0",
+      "source_peak": 0.139437362551689,
+      "source_rms": 0.0252938284095667,
+      "sources": [
+        {
+          "file": "res://.local_test/v13_audio_sources/rpg/spell_fire_07.ogg",
+          "author": "rubberduck",
+          "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+          "sha256": "bb13cef9c0b0b4ec7f9335c356b14814c88418abd85dd3747cb62469e9ada93f",
+          "license": "CC0-1.0"
+        }
+      ],
+      "path": "assets/audio/sfx/wisp_flare.wav",
+      "sha256": "be9247b40c15fa2a9c083ff4bb8f8c12346a9b883cdabab7073e4d7005df9bfa"
+    },
+    {
+      "duration": 0.38,
+      "edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+      "file": "wisp_shift.wav",
+      "gain": 2.21271005474385,
+      "license": "CC0-1.0",
+      "source_peak": 0.171735107898712,
+      "source_rms": 0.0124968890073403,
+      "sources": [
+        {
+          "file": "res://.local_test/v13_audio_sources/rpg/spell_fire_04.ogg",
+          "author": "rubberduck",
+          "page": "https://opengameart.org/content/80-cc0-rpg-sfx",
+          "sha256": "64d653cd0cc6eb71bb45a1dfbba29eaa769ed5b663cce275082d6971e4f2ca8e",
+          "license": "CC0-1.0"
+        }
+      ],
+      "path": "assets/audio/sfx/wisp_shift.wav",
+      "sha256": "43dd0dc0455022ec58c0dab7bc68459af6eb921dccfbfc8ac6502b2d7e2b7ce5"
+    }
+  ]
+}

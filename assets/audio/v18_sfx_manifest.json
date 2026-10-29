@@ -1,0 +1,224 @@
+{
+	"archive_chain_texture": {
+		"duration": 0.48,
+		"edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+		"file": "archive_chain_texture.wav",
+		"gain": 0.41225595304453,
+		"license": "CC0-1.0",
+		"source_peak": 0.921757459640503,
+		"source_rms": 0.118874615604001,
+		"sources": [
+			"res://.local_test/v13_audio_sources/rpg/chain_01.ogg"
+		]
+	},
+	"archive_judgment_texture": {
+		"duration": 0.6,
+		"edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+		"file": "archive_judgment_texture.wav",
+		"gain": 0.373621371847655,
+		"license": "CC0-1.0",
+		"source_peak": 1.01707243919373,
+		"source_rms": 0.120880891833372,
+		"sources": [
+			"res://.local_test/v13_audio_sources/rpg/spell_01.ogg",
+			"res://.local_test/v13_audio_sources/rpg/item_gem_04.ogg"
+		]
+	},
+	"archive_seal_texture": {
+		"duration": 0.5,
+		"edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+		"file": "archive_seal_texture.wav",
+		"gain": 0.406208655673137,
+		"license": "CC0-1.0",
+		"source_peak": 0.935479819774628,
+		"source_rms": 0.09665322322495,
+		"sources": [
+			"res://.local_test/v13_audio_sources/rpg/spell_02.ogg",
+			"res://.local_test/v13_audio_sources/rpg/lock_03.ogg"
+		]
+	},
+	"boss_impact_texture": {
+		"duration": 0.6,
+		"edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+		"file": "boss_impact_texture.wav",
+		"gain": 0.383426154371055,
+		"license": "CC0-1.0",
+		"source_peak": 0.991064369678497,
+		"source_rms": 0.0532239882452236,
+		"sources": [
+			"res://.local_test/v13_audio_sources/rpg/stones_04.ogg",
+			"res://.local_test/v13_audio_sources/rpg/spell_fire_05.ogg"
+		]
+	},
+	"boss_tome_texture": {
+		"duration": 0.5,
+		"edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+		"file": "boss_tome_texture.wav",
+		"gain": 0.623573519334437,
+		"license": "CC0-1.0",
+		"source_peak": 0.60939085483551,
+		"source_rms": 0.0787070947320373,
+		"sources": [
+			"res://.local_test/audio_sources/rpg/Audio/bookOpen.ogg",
+			"res://.local_test/v13_audio_sources/rpg/spell_01.ogg"
+		]
+	},
+	"ink_splash_texture": {
+		"duration": 0.32,
+		"edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+		"file": "ink_splash_texture.wav",
+		"gain": 0.536650964190087,
+		"license": "CC0-1.0",
+		"source_peak": 0.708095252513886,
+		"source_rms": 0.0783408505145679,
+		"sources": [
+			"res://.local_test/v13_audio_sources/rpg/creature_slime_02.ogg"
+		]
+	},
+	"ink_spray": {
+		"duration": 0.42,
+		"edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+		"file": "ink_spray.wav",
+		"gain": 0.61171723273781,
+		"license": "CC0-1.0",
+		"source_peak": 0.621202051639557,
+		"source_rms": 0.0814779223185782,
+		"sources": [
+			"res://.local_test/v13_audio_sources/rpg/creature_slime_01.ogg"
+		]
+	},
+	"ink_surge_texture": {
+		"duration": 0.65,
+		"edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+		"file": "ink_surge_texture.wav",
+		"gain": 0.617709680594861,
+		"license": "CC0-1.0",
+		"source_peak": 0.615175724029541,
+		"source_rms": 0.0625753024033508,
+		"sources": [
+			"res://.local_test/v13_audio_sources/rpg/creature_slime_04.ogg"
+		]
+	},
+	"mimic_bite_texture": {
+		"duration": 0.55,
+		"edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+		"file": "mimic_bite_texture.wav",
+		"gain": 0.379226953874677,
+		"license": "CC0-1.0",
+		"source_peak": 1.00203847885132,
+		"source_rms": 0.0733428624110454,
+		"sources": [
+			"res://.local_test/audio_sources/rpg/Audio/bookClose.ogg",
+			"res://.local_test/v13_audio_sources/rpg/creature_monster_02.ogg"
+		]
+	},
+	"mimic_devour_texture": {
+		"duration": 0.65,
+		"edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+		"file": "mimic_devour_texture.wav",
+		"gain": 0.628230553267496,
+		"license": "CC0-1.0",
+		"source_peak": 0.604873478412628,
+		"source_rms": 0.0626468381364338,
+		"sources": [
+			"res://.local_test/v13_audio_sources/rpg/creature_monster_03.ogg",
+			"res://.local_test/audio_sources/rpg/Audio/bookClose.ogg"
+		]
+	},
+	"mimic_drain": {
+		"duration": 0.55,
+		"edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+		"file": "mimic_drain.wav",
+		"gain": 0.403804213032251,
+		"license": "CC0-1.0",
+		"source_peak": 0.941050112247467,
+		"source_rms": 0.0908117670143418,
+		"sources": [
+			"res://.local_test/v13_audio_sources/rpg/spell_02.ogg"
+		]
+	},
+	"mimic_open_texture": {
+		"duration": 0.32,
+		"edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+		"file": "mimic_open_texture.wav",
+		"gain": 1.8532876882167,
+		"license": "CC0-1.0",
+		"source_peak": 0.205041021108627,
+		"source_rms": 0.0133319413553689,
+		"sources": [
+			"res://.local_test/audio_sources/rpg/Audio/bookOpen.ogg"
+		]
+	},
+	"paper_heavy": {
+		"duration": 0.42,
+		"edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+		"file": "paper_heavy.wav",
+		"gain": 0.378417779778486,
+		"license": "CC0-1.0",
+		"source_peak": 1.0041811466217,
+		"source_rms": 0.0790322282198978,
+		"sources": [
+			"res://.local_test/audio_sources/rpg/Audio/bookClose.ogg"
+		]
+	},
+	"paper_rustle": {
+		"duration": 0.4,
+		"edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+		"file": "paper_rustle.wav",
+		"gain": 0.751208949075597,
+		"license": "CC0-1.0",
+		"source_peak": 0.505851268768311,
+		"source_rms": 0.0180965768556273,
+		"sources": [
+			"res://.local_test/audio_sources/rpg/Audio/bookFlip3.ogg"
+		]
+	},
+	"paper_strike": {
+		"duration": 0.32,
+		"edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+		"file": "paper_strike.wav",
+		"gain": 0.357622422592222,
+		"license": "CC0-1.0",
+		"source_peak": 1.06257319450378,
+		"source_rms": 0.116447495035496,
+		"sources": [
+			"res://.local_test/audio_sources/rpg/Audio/bookPlace3.ogg"
+		]
+	},
+	"wisp_fire": {
+		"duration": 0.42,
+		"edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+		"file": "wisp_fire.wav",
+		"gain": 2.88179872450522,
+		"license": "CC0-1.0",
+		"source_peak": 0.131862089037895,
+		"source_rms": 0.0135818824117756,
+		"sources": [
+			"res://.local_test/v13_audio_sources/rpg/spell_fire_01.ogg"
+		]
+	},
+	"wisp_flare": {
+		"duration": 0.65,
+		"edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+		"file": "wisp_flare.wav",
+		"gain": 2.72523800684436,
+		"license": "CC0-1.0",
+		"source_peak": 0.139437362551689,
+		"source_rms": 0.0252938284095667,
+		"sources": [
+			"res://.local_test/v13_audio_sources/rpg/spell_fire_07.ogg"
+		]
+	},
+	"wisp_shift": {
+		"duration": 0.38,
+		"edit": "trim leading silence, layer if listed, mono PCM16, RMS/peak control, 3ms attack /25ms fade",
+		"file": "wisp_shift.wav",
+		"gain": 2.21271005474385,
+		"license": "CC0-1.0",
+		"source_peak": 0.171735107898712,
+		"source_rms": 0.0124968890073403,
+		"sources": [
+			"res://.local_test/v13_audio_sources/rpg/spell_fire_04.ogg"
+		]
+	}
+}
